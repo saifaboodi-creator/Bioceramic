@@ -1,0 +1,3551 @@
+A N I L L U S T R A T E D C L I N I C A L G U I D E
+BIOCERAMIC
+IN DENTISTRY
+Expanded & Illustrated Edition
+Dr. Saad Alsaif · Dr. Khalid Al Otaibi
+PRINCE ABDULRAHMAN ADVANCED
+DENTAL INSTITUTE
+
+-- 1 of 132 --
+
+BIOCERAMIC IN DENTISTRY
+Expanded & Illustrated Edition
+This edition preserves the text and scholarship of the original work by Dr.
+Saad Alsaif and Dr. Khalid Al Otaibi (Prince Abdulrahman Advanced
+Dental Institute, Riyadh, 2026) and augments it with explanatory
+expansion, summary call-outs, comparative data charts and original
+schematic illustrations.
+The illustrations are schematic diagrams created to clarify concepts and
+material behaviour. They are not clinical photographs, radiographs or
+histology, and are not drawn to scale. Numerical values in the charts are
+representative figures drawn from the studies cited in the text and are
+intended for orientation.
+How to read this edition
+• Teal call-outs summarise the key take-aways of a section.
+• Gold call-outs flag practical or clinical points.
+• Figures are numbered per chapter; tables retain the original numbering.
+Four further chapters broaden the scope beyond endodontics. Chapter
+Five, ‘Bioceramics across Dentistry’, and Chapter Six, on properties,
+testing and handling, are expository background compiled for this
+edition; they summarise well-established dental-materials science and
+are presented without new author–year citations so that no source is
+misattributed. Chapter Seven, on dental adhesives, and Chapter Eight,
+on the periodontal response to materials, additionally draw on supplied
+sources and carry author–year citations, listed under ‘Additional
+references’. The main References section reproduces the full
+bibliography of the original work, so that every citation in the endodontic
+chapters can be traced to its source.
+Clinical decisions should always be based on current primary literature
+and individual patient assessment.
+
+-- 2 of 132 --
+
+Preface
+Few groups of materials have changed a dental discipline as quickly as
+bioceramics changed endodontics. In the span of a single generation,
+mineral trioxide aggregate turned procedures that were once uncertain
+— sealing a perforation, capping an exposed pulp, treating a tooth with
+an open apex — into predictable, biologically driven treatments. The
+materials that followed have widened that success and carried the same
+chemistry into restorative dentistry, implantology and bone
+regeneration.
+The original monograph on which this edition is based set out the science
+of these materials for the endodontic clinician with clarity and rigour.
+This expanded edition keeps that foundation intact and adds three
+things: illustration, so that mechanisms and clinical situations can be
+seen as well as read; breadth, through two new chapters that place
+endodontic bioceramics in the wider context of dentistry and of materials
+science; and reference, through the full bibliography of the original work
+and a set of quick-reference appendices.
+The aim throughout has been to make the subject easier to learn without
+diluting its accuracy. The illustrations are schematic, the comparative
+figures are drawn from the cited literature, and the new background
+chapters are written as established materials science rather than as
+novel claims. Where the evidence is still incomplete — as it often is for
+long-term clinical outcomes — the text says so plainly.
+It is hoped that students, residents and practising clinicians alike will find
+here both a readable introduction and a practical point of reference.
+
+-- 3 of 132 --
+
+Contents
+. . . . . . . . . . . . . . . . . . . . . . . 9	Introduction
+. . . . . . . . . . . . . . . . . . . . . . . . . 10	Bioceramics in medicine
+. . . . . . . . . . . . . . . . . . . . . . . . . 12	Bioceramics in dentistry
+. . . . . . . . . . . . . . . . . . . . . . . . 12	Bioceramics in endodontics
+. . . . . . . . . . . . . . . . . . . 15	Bioceramic Cements
+. . . . . . . . . . . . . . . . . . . 17	2.1 Mineral trioxide aggregate (MTA)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21	2.2 MTA Angelus
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21	2.3 Biodentine
+. . . . . . . . . . . . . . . . 22	2.4 ERRM Putty, ERRM Paste and iRoot FS
+. . . . . . . . . . . . . . . . . . . 25	Bioceramic Sealers
+. . . . . . . . . . . . . . . . . . . . . . . . . . 26	3.1 BC Sealer (iRoot SP)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27	3.2 MTA Fillapex
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28	3.3 MTA Plus
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28	3.4 MTA Obtura
+. . . . . . . . . . 30	Clinical Uses of Bioceramic Materials
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 31	1. Retrograde filling
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 33	2. Perforation repair
+. . . . . . . . . . . . . . . . . 35	3. Internal inflammatory root resorption
+. . . . . . . . . . . . . . . . . . . . . . 36	4. Invasive cervical resorption
+. . . . . . . . . . . . . . . . 38	5. Orthograde bioceramic root-canal filling
+. . . . . . . . . . . . . . . . . . 39	6. Pulp capping and vital pulp therapy
+. . . . . . . . . . . . . . . 41	7. Teeth with necrotic pulps and open apices
+. . . . . . . . . . . . . . . . . . . . . . . 43	8. Regenerative endodontics
+
+-- 4 of 132 --
+
+. . . . . . . . . . . . . . 45	Bioceramics across Dentistry
+. . . . . . . . . . . . . . . . . . 46	5.1 A common chemistry, many roles
+. . . . . 47	5.2 Restorative dentistry: liners, bases and dentine substitutes
+. . . . . . . . . . . . . . . . . . . 48	5.3 Dental ceramics for restorations
+. . . . . . . . . . . . . . . . 49	5.4 Prosthodontics and the restored tooth
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 50	5.5 Implant dentistry
+. . . . . . . . 51	5.6 Bone regeneration: grafting and guided regeneration
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 53	5.7 Bioactive glass
+. . . . . . . . . . . 54	5.8 Orthodontics, periodontics and maxillofacial use
+. . . . . . . . . . . . . . . . . 54	5.9 Prevention and emerging directions
+. . . . . . . . . . 56	Understanding Bioceramic Materials
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 57	6.1 Setting chemistry
+. . . . . . . . . . . . . . . . . . 57	6.2 How key properties are measured
+. . . . . . . . . . . . . . . . . . . . . . . . . 58	6.3 Biological evaluation
+. . . . . . . . . . . . . . . . . . . . . . . 59	6.4 Handling and clinical tips
+. . . . . . . . . . . . . . . . . . . . . . 60	6.5 Limitations and precautions
+. . . . . . . . . . . . . . . . . . . . 61	Dental Adhesives
+. . . . . . . . . . . . . . . . . . . . . . . . 62	7.1 Why adhesion matters
+. . . . . . . . . . . . . . . 62	7.2 The two substrates: enamel and dentine
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 63	7.3 The hybrid layer
+. . . . . . . . . . . . . . . 64	7.4 Etching strategies and adhesive families
+. . . . . . . . . . . . . . . 64	7.5 Bonding to ceramics, zirconia and metal
+. . . . . . . . . . . . . . . . . . . . . . 65	7.6 Durability: why bonds age
+. . . . . . . . . . . . . . . . . . . . . . 66	7.7 Adhesives and bioceramics
+. . . . . . . . . . . . 68	7.8 Resin cements and luting indirect restorations
+
+-- 5 of 132 --
+
+. . . . . . . . . . . . . . . 68	7.9 Bonding to root dentine: posts and cores
+. . . . . . . . . . 68	7.10 Isolation, moisture control and common failures
+. . . . . . 69	7.11 Bioactive and self-adhesive restoratives: a convergence
+. . . . . . 71	Reaction of Periodontal Tissues to Materials
+. . . . . . . . . . . . 72	8.1 The periodontium and where materials meet it
+. . . . . . . . . . . . . . . . . . . 73	8.2 The spectrum of tissue response
+. . . . . . . . . . . . . . . . . . . 73	8.3 How traditional materials behave
+. . . . . . . . . . . . . . . 74	8.4 The favourable response to bioceramics
+. . . . . . . . . . . . . . 75	8.5 Why: cellular and molecular mechanisms
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 75	8.6 Clinical settings
+. . . . . . . . . . . . . . . . . . . . . . . . . . 76	8.7 A comparative view
+. . . . . . . . . . . . . . . 77	8.8 Soft-tissue and aesthetic considerations
+. . . . . . . . . . . . . . . . . . . . . . 78	8.9 The peri-implant interface
+. . . . . . . . . . 79	8.10 Endodontic sealers and the periodontal response
+. . . . . . . . . . . . . . . . . . . . . . . . . . 80	8.11 Evidence and gaps
+. . . . . . . . . . . . . . . . . . . . . . . . 81	Conclusion
+. . . . . . . . . . . . . . . . . . 83	Glossary of key terms
+. . . . . . . . . . . . . . 87	Abbreviations and acronyms
+. . . . . . . . . . . . 89	Bioceramic materials at a glance
+. . . . . . . . . . . . . 92	Material-selection quick guide
+. . . . . . . . . . . . . . 94	Adhesive systems at a glance
+. . . . . . . 95	Periodontal response of common materials
+
+-- 6 of 132 --
+
+. . . . . . . . . . . . . . 96	Clinical protocols at a glance
+. . . . . . . . . . . . . . . . . . . . . . . 105	References
+. . . . . . . . . . . . . . . . . 129	Additional references
+Illustrations in this edition
+• 1.1 Classification of bioceramics
+• 1.2 From medicine to the root canal (timeline)
+• 1.3 Clinical applications overview
+• 2.1 Hydration of MTA
+• 2.2 Setting-time comparison
+• 2.3 Alkalinisation (pH) after mixing
+• 2.4 Radiopacity comparison
+• 2.5 Property profile: MTA vs Biodentine
+• 3.1 Cements vs sealers
+• 4.1 Retrograde (root-end) filling
+• 4.2 Sites of root perforation
+• 4.3 Heithersay ECR classification
+• 4.4 Vital-pulp-therapy decision guide
+• 4.5 Apexification vs regeneration
+• 5.1 Bioceramics across dentistry
+• 5.2 The dental-ceramic spectrum
+• 5.3 All-ceramic indirect restorations
+• 5.4 Bioceramics in the restored dentition
+• 5.5 Osseointegration at a bioactive surface
+• 5.6 Osteoconductive bone grafting
+• 5.7 Guided bone regeneration
+• 5.8 How bioactive glass bonds to tissue
+• 6.1 Hierarchy of biological evidence
+• 7.1 The adhesive interface (hybrid layer)
+• 7.2 Families of adhesive systems
+• 7.3 Bonding to different substrates
+• 7.4 Why adhesive bonds age
+• 7.5 The bonded, restored endodontic tooth
+• 8.1 The periodontium and material contact
+• 8.2 Healing over a bioceramic filling
+
+-- 7 of 132 --
+
+• 8.3 Periodontal cell response to bioceramics
+• 8.4 Periodontal response by material
+• 8.5 Restoration margins and biologic width
+
+-- 8 of 132 --
+
+CHAPTER ONE
+Introduction
+Bioceramics in medicine, dentistry and endodontics
+
+-- 9 of 132 --
+
+Bioceramic in Dentistry 10
+Expanded & Illustrated Edition
+Bioceramics in medicine
+Over the past several decades the materials available to medicine have
+advanced dramatically, and ceramic materials in particular have been
+engineered to repair and reconstruct the diseased or damaged parts of
+the musculo-skeletal system. Ceramics used for this purpose are termed
+bioceramics (Hench, 1991). Since the 1960s, alongside advances in
+technology and knowledge, this family has grown to include alumina,
+zirconia, coatings and composites, hydroxyapatite, bioactive glass,
+glass-ceramics, resorbable calcium phosphates, radiotherapy glasses
+and calcium silicate (Best et al., 2008; Dubok, 2000; Hench, 1991).
+Hench (1991) and Best et al. (2008) classified bioceramics as bioinert,
+bioactive and biodegradable (soluble or resorbable). In practice no
+implant material is completely inert: every material provokes at least a
+minimal reaction in living tissue (Dubok, 2000). A biomaterial, more
+broadly, is any synthetic or natural material used to perform or
+substitute a body function or tissue (Bandyopadhyay and Bose, 2013).
+Figure 1.1 Bioceramics are grouped by how they interact with tissue; endodontic
+materials are predominantly bioactive calcium-silicate cements and sealers.
+
+-- 10 of 132 --
+
+Bioceramic in Dentistry 11
+Expanded & Illustrated Edition
+Biomaterials can be described as biotoxic, bioinert, bioactive or
+bioresorbable. Biotoxic materials — certain cadmium- or
+vanadium-containing alloys, carbon steel and methyl methacrylate —
+provoke pathological change or immune rejection. Bioinert materials
+such as aluminium and zirconium oxides, tantalum and titanium coexist
+with tissue, separated only by a thin fibrous layer. Bioactive materials —
+high-density hydroxyapatite, tricalcium phosphate and certain bioglasses
+— form direct biochemical bonds with tissue. Bioresorbable materials are
+gradually resorbed and replaced by healthy tissue as the wound heals
+(Dubok, 2000).
+At a glance
+• Bioceramics are the only synthetic inorganic materials that can be both
+bioactive and bioresorbable.
+• They provoke less immune response and offer a wider range of
+mechanical and biochemical behaviour than most implants.
+• Their main limitation is low crack resistance — they are brittle and hard
+to adjust intra-operatively.
+Because bioceramics are among the few inorganic materials that
+demonstrate both bioactive and bioresorbable behaviour, and because
+their biocompatibility exceeds that of most implanted materials, they
+have been used extensively across surgical medicine (Dubok, 2000;
+Hench, 1991). Their principal weakness relative to metals is low crack
+resistance: they are brittle and difficult to manipulate. Combining
+bioceramic particles with metallic implants captures the advantages of
+both — carbon coatings, for example, are thromboresistant and are used
+on prosthetic heart valves and orthopaedic and maxillofacial prostheses
+(Geesink and Manley, 1993; Hench, 1991).
+Bioinert ceramics retain their characteristics indefinitely within the body,
+which makes them valuable for immunocompromised and oncological
+patients. Aluminium oxide (corundum) was the first widely used
+bioceramic thanks to its high wear resistance, strength and corrosion
+resistance; it is used in load-bearing hip prostheses, dental implants,
+knee prostheses, alveolar-ridge and maxillofacial reconstruction, bone
+screws, and even replacements for the cornea and the ossicles of the
+
+-- 11 of 132 --
+
+Bioceramic in Dentistry 12
+Expanded & Illustrated Edition
+middle ear (Hench, 1991; Hulbert et al., 1987). Despite its compatibility,
+alumina has low crack resistance; zirconium dioxide offers similar
+biocompatibility with greater bend strength and crack resistance,
+especially when stabilised with yttrium or cerium oxide (Dubok, 2000).
+Bioactive and bioresorbable ceramics are used to aid healing of bone
+defects after removal of cysts and tumours: bioactive ceramics integrate
+with bone and hold their strength during healing, while bioresorbable
+ceramics are gradually replaced by new bone. Between them they serve
+maxillofacial reconstruction, cranial repair, bone grafting, joint
+reconstruction, hearing endoprostheses and cosmetic eye prostheses;
+bioresorbable ceramics can also support restoration of tendons,
+ligaments, nerve fibres and blood vessels (Black, 1988; Hulbert et al.,
+1987). The surface biochemical bonding that defines bioactivity was first
+detected in the late 1960s (Hench et al., 1971).
+Bioceramics in dentistry
+Bioceramics are not new to dentistry. Hulbert et al. (1987) reviewed
+calcium-phosphate bioceramics used more than two decades earlier for
+periodontal treatment, alveolar-ridge augmentation, maxillofacial
+surgery and dental implants. Hench (1991) noted the use of alumina,
+hydroxyapatite and bioactive glasses for dental implants and
+maxillofacial reconstruction, and of hydroxyapatite, tricalcium
+phosphate, calcium-phosphate salts and bioactive glasses for
+periodontal-pocket obliteration. Their excellent physicochemical and
+biological properties made these materials natural candidates for
+endodontics.
+Bioceramics in endodontics
+Bioceramics entered endodontics in the 1990s in the form of mineral
+trioxide aggregate (MTA), first used as a retrograde (root-end) filling and
+later for root repair and as a coating for gutta-percha cones (Koch and
+Brave, 2012). Advances in nanotechnology have since widened their use
+to root-canal sealing. The reasons for choosing them are compelling:
+bioceramics are highly biocompatible, non-toxic, chemically stable in a
+biological environment and do not shrink on setting. An overfill during
+obturation or root repair does not provoke an inflammatory reaction, and
+
+-- 12 of 132 --
+
+Bioceramic in Dentistry 13
+Expanded & Illustrated Edition
+the materials form hydroxyapatite that strengthens the bond to dentine
+(Koch and Brave, 2012).
+Figure 1.2 Bioceramics migrated from general medicine to dentistry and, from 1993,
+into routine endodontic practice.
+Bioceramics are notably forgiving in technique because blood and
+moisture do not contaminate them; indeed they require moisture to set
+(Hench, 1991; Jefferies, 2014). They offer excellent sealing because they
+remain dimensionally stable and expand marginally on setting (Gandolfi
+et al., 2009; Jefferies, 2014). On setting, the hydration reaction liberates
+calcium hydroxide, which dissociates into calcium and hydroxyl ions and
+raises the pH above 12 (Jefferies, 2014; Richardson, 2008). While unset
+they are antibacterial; once set they become biocompatible and
+bioactive, forming hydroxyapatite in tissue fluids as released calcium
+hydroxide reacts with phosphates (Richardson, 2008). This apatite
+formation underlies their tissue-inductive behaviour.
+Why bioceramics changed endodontics
+• Not moisture-sensitive — they set in the wet field of the root canal.
+• High pH on setting → antibacterial while unset; bioactive once set.
+• Dimensionally stable with marginal expansion → excellent seal, no
+shrinkage.
+• Form hydroxyapatite and bond to dentine → tissue-inductive healing.
+The technology has changed how endodontists plan treatment, surgically
+and non-surgically, improving the prognosis of teeth that would once
+have been lost. Bioceramics are now a first choice for pulpotomy, pulp
+
+-- 13 of 132 --
+
+Bioceramic in Dentistry 14
+Expanded & Illustrated Edition
+capping, perforation repair, root-end filling, obturation of immature
+(open-apex) teeth and canal sealing in mature teeth. Commercial
+products include cements — Biodentine, the various MTA brands,
+EndoSequence Root Repair Material (ERRM) putty and paste, and iRoot
+FS — and sealers such as EndoSequence BC Sealer, iRoot SP, MTA
+Fillapex, MTA Plus and bioceramic gutta-percha. The chapters that follow
+examine these materials in turn.
+Figure 1.3 The clinical territory covered by bioceramics now spans surgical and
+non-surgical endodontics — each application is discussed in Chapter Four.
+
+-- 14 of 132 --
+
+CHAPTER TWO
+Bioceramic Cements
+MTA · MTA Angelus · Biodentine · ERRM & iRoot
+
+-- 15 of 132 --
+
+Bioceramic in Dentistry 16
+Expanded & Illustrated Edition
+Bioceramic cements are the bulk-placement members of the family: they
+are packed into a cavity, perforation or canal terminus to form a solid,
+sealing mass. The prototype is MTA, and the many products that followed
+refine its handling, setting time and aesthetics while retaining its
+calcium-silicate chemistry.
+Figure 3.1 Cements are placed in bulk to form barriers and plugs; sealers (Chapter
+Three) form a thin film around a core material.
+An optimal endodontic material
+Before comparing individual products it helps to state the target. Wang
+(2015) summarised the physicochemical and biological characteristics of
+an ideal endodontic material (Table 2):
+Physicochemical characteristics Biological properties
+Short setting time Biocompatible
+High mechanical strength Stimulates biomineralisation
+High alkalinity (pH) & Ca²⁺ release Induces pulp-cell differentiation
+Marked radiopacity Antibacterial activity
+Moderate flow, low porosity & solubility
+
+-- 16 of 132 --
+
+Bioceramic in Dentistry 17
+Expanded & Illustrated Edition
+Table 2. Characteristics of an optimal material used in endodontics (Wang, 2015).
+2.1 Mineral trioxide aggregate (MTA)
+MTA powder is essentially a purified Portland cement: tricalcium silicate,
+dicalcium silicate, tricalcium aluminate, calcium sulfate dihydrate
+(gypsum), calcium aluminoferrite and bismuth oxide. It is mixed with
+sterile water at roughly a 3:1 powder-to-water ratio (Torabinejad et al.,
+1993). Two reactions drive setting. In the first, the silicate phases
+hydrate to form calcium silicate hydrate (C–S–H) and calcium hydroxide;
+the calcium hydroxide raises pH, confers antibacterial activity and seeds
+the deposition of mineralised apatite. In the second, tricalcium aluminate
+reacts with water in the presence of calcium sulfate to form ettringite,
+and — once the sulfate phases are consumed — monosulfate (Camilleri
+et al., 2013).
+Figure 2.1 The silicate (first) reaction generates the high pH and apatite-forming
+behaviour that make MTA bioactive; the aluminate (second) reaction governs early set.
+Key point — moisture is a friend, not an enemy
+• Most dental materials degrade in a wet field. MTA is the opposite: it
+requires moisture to set, which is why it was introduced to overcome
+contamination problems (Shah et al., 1996).
+
+-- 17 of 132 --
+
+Bioceramic in Dentistry 18
+Expanded & Illustrated Edition
+MTA is sold in grey (GMTA) and white (WMTA) forms; WMTA was
+developed to reduce the dentine discolouration seen with the original
+grey material (Kratchman, 2004). Its chief drawback is a long setting
+time — a mean of about 165 minutes for conventional MTA (Gandolfi et
+al., 2009; Torabinejad et al., 1995a) — although WMTA sets faster than
+GMTA (Islam et al., 2006). A long set makes it hard to maintain a
+consistent mix, whereas a short set favours a tight seal between canal
+and periodontium (Santos et al., 2008).
+Figure 2.2 Conventional MTA sets slowly; later products such as MTA Angelus and
+Biodentine were engineered for a much shorter set.
+Any material that permanently seals a canal should be alkaline and
+should release calcium ions to promote mineralised-apatite deposition —
+both in-vitro and in-vivo work links pulp wound healing to an alkaline pH
+and calcium-ion availability (Holland et al., 2001; Okabe et al., 2006).
+The pH of MTA rises from about 10.2 immediately after mixing to 12.5 by
+three hours (Torabinejad et al., 1995a); GMTA shows a lower value at 60
+minutes than WMTA (Chng et al., 2005). The high pH reflects continuous
+liberation of calcium ions and formation of calcium hydroxide (Fridland
+and Rosado, 2005; Han and Okiji, 2013).
+
+-- 18 of 132 --
+
+Bioceramic in Dentistry 19
+Expanded & Illustrated Edition
+Figure 2.3 Alkalinisation follows Ca(OH)₂ formation and is shared, to differing degrees,
+by the major cements.
+Radiopacity lets the clinician confirm the quality of a filling
+radiographically (Torabinejad et al., 1995a). Bismuth oxide is added to
+calcium-silicate cement to raise radiopacity (Saghiri et al., 2015); under
+ISO 6876/2001 a material must be at least as radiopaque as 3 mm of
+aluminium. MTA reaches about 7.17 mm (Torabinejad et al., 1995a), with
+WMTA slightly higher than GMTA despite equal bismuth content (Parirokh
+and Torabinejad, 2010a).
+
+-- 19 of 132 --
+
+Bioceramic in Dentistry 20
+Expanded & Illustrated Edition
+Figure 2.4 All the calcium-silicate materials clear the ISO minimum; MTA and AH Plus
+are the most radiopaque of those shown.
+Solubility should be low for root-end and repair materials; MTA showed
+little or no solubility in most studies, though one long-term study
+reported an increase (Fridland and Rosado, 2005; Poggio et al., 2007;
+Shie et al., 2009). Porosity should also be low, since mechanical strength
+rises as porosity falls (Holt et al., 2007); an acidic environment and air
+bubbles introduced during mixing both raise porosity (Namazikhah et al.,
+2008), while chelating agents, low humidity, high condensation forces
+and low pH can reduce microhardness (Nekoofar et al., 2007).
+Compressive strength depends on the type of MTA and is higher for
+conventional MTA than for MTA Angelus (Basturk et al., 2013);
+phosphoric-acid etching lowers it (Kayahan et al., 2009). Amalgam, IRM
+and Super-EBA initially exceed MTA in compressive strength, but the
+difference disappears by three weeks (Torabinejad et al., 1995a). Placing
+a wet cotton pellet over MTA for a day can raise its flexural strength by
+exposing it to moisture on two sides (Walker et al., 2006). Push-out bond
+strength is pH-sensitive: it is highest near pH 8.4 and falls in more acidic
+conditions (Saghiri et al., 2010; Shokouhinejad et al., 2010).
+Biomineralisation arises from the slow release of calcium ions during
+setting, which up-regulates signalling molecules — transforming growth
+factor-β, macrophage colony-stimulating factor and interleukins — that
+recruit progenitor cells and drive their differentiation into
+
+-- 20 of 132 --
+
+Bioceramic in Dentistry 21
+Expanded & Illustrated Edition
+odontoblast-like cells and dentinogenesis (Koh et al., 1997; Okiji and
+Yoshiba, 2009). MTA can induce an osteogenic phenotype, up-regulating
+osteonectin, osteopontin and alkaline phosphatase (Bonson et al., 2004),
+and the resulting mineral tags within dentinal tubules improve push-out
+bond strength (Reyes-Carmona et al., 2010).
+Biocompatibility is well documented: MTA outperformed amalgam, IRM,
+Super-EBA, gutta-percha and several glass ionomers in cytotoxicity and
+cell-attachment studies (Osorio et al., 1998; Souza et al., 2006;
+Yoshimine et al., 2007) and is comparable to the newer bioceramics —
+BC Sealer, ERRM and Biodentine (Ma et al., 2011; Zhang et al., 2010b;
+Zhou et al., 2013). Reports on its antibacterial effect conflict, but
+consensus holds that its high pH and calcium-hydroxide formation give it
+real antimicrobial activity, with differences between studies explained by
+the type and amount of MTA and the organisms tested (Parirokh and
+Torabinejad, 2010a).
+2.2 MTA Angelus
+Developed in Brazil, MTA Angelus is 80% Portland cement and 20%
+bismuth oxide, with the calcium sulfate removed to shorten the set
+(Duarte et al., 2003). Its setting time of about 14 minutes is far shorter
+than WMTA or GMTA (Chng et al., 2005; Santos et al., 2008). Its finer,
+more variable particle size (48 μm vs 65 μm for MTA) improves handling
+(Komabayashi and Spångberg, 2008). Reports on pH and calcium-ion
+release conflict — some find lower values than MTA, some higher, some
+no difference — probably because measurements were taken at different
+times after mixing (Cavenago et al., 2014; Duarte et al., 2003;
+Reyes-Carmona et al., 2009). Its radiopacity is lower than WMTA and
+GMTA (Chng et al., 2005).
+MTA Angelus is biocompatible: neither grey nor white forms were
+genotoxic or cytotoxic to Chinese-hamster ovary or lymphoma cells at
+1–1000 μg/mL (Ribeiro et al., 2006a, 2006b). It stimulated mineralisation
+in rat connective tissue (Gomes-Filho et al., 2009) and — with GMTA and
+Portland cement — was effective against the organisms tested, including
+E. coli (Tanomaru-Filho et al., 2007).
+2.3 Biodentine
+
+-- 21 of 132 --
+
+Bioceramic in Dentistry 22
+Expanded & Illustrated Edition
+Biodentine combines tricalcium and dicalcium silicate with calcium
+carbonate and a water-based liquid containing calcium chloride as a
+setting accelerator. It sets in about 10–12 minutes and exceeds
+3 mm-aluminium radiopacity (Grech et al., 2013b), which suits it to
+perforation repair. It is marketed as a dentine substitute for perforation
+repair and coronal restoration and can be used for pulp capping (File,
+2010). Rheometry shows it has the shortest set among tricalcium-silicate
+cements (Setbon et al., 2014), and it produces only slight clinical
+discolouration — an advantage over MTA in aesthetic regions (Keskin et
+al., 2015).
+Clinical note — irrigation and MTA strength
+• Biodentine, amalgam and IRM keep their push-out strength after soaking
+in NaOCl, chlorhexidine (CHX) or saline, but MTA loses strength after CHX
+exposure (Guneser et al., 2013).
+• Where MTA is planned, avoid CHX as the final irrigant to preserve bond
+strength.
+Immersed in Hank's balanced solution, Biodentine held a pH of about
+11.7 with little change over 28 days and released more calcium than
+MTA, BC Sealer, BioAggregate, IRM and TCS-Zr (Grech et al., 2013a; Han
+and Okiji, 2013). Its microhardness, compressive strength and push-out
+strength are high (Guneser et al., 2013). A small particle size (~5 μm)
+and homogeneous composition let it diffuse into dentinal tubules and
+form mineral-infiltration zones and tag-like structures, giving greater
+push-out strength than MTA and a cohesive rather than adhesive failure
+mode (Atmeh et al., 2012; Guneser et al., 2013).
+Biocompatibility studies broadly favour Biodentine and MTA over glass
+ionomer, though some cultured cell lines showed lower viability with
+Biodentine than MTA at day seven (Pérard et al., 2013; Zhou et al., 2013)
+and both lowered proliferation of OD-21 pulp cells relative to control (Luo
+et al., 2014). Such discrepancies underline the need for well-designed,
+randomised long-term clinical trials; in-vitro and in-vivo evidence is
+generally favourable but long-term clinical data remain limited.
+2.4 ERRM Putty, ERRM Paste and iRoot FS
+
+-- 22 of 132 --
+
+Bioceramic in Dentistry 23
+Expanded & Illustrated Edition
+EndoSequence Root Repair Material (ERRM) is supplied as a pre-mixed
+pliable putty (also branded iRoot BP Plus) and as a syringe-delivered
+paste for intracanal placement (Shi et al., 2016). Both share a
+composition of calcium silicate, tantalum oxide, zirconium oxide and
+monobasic calcium phosphate. Working time exceeds half an hour and
+setting takes roughly four hours, requiring moisture; the pH during
+setting can reach 12.4, contributing to antibacterial activity (Wang,
+2015).
+ERRM's compressive strength is similar to MTA (Walsh et al., 2014); an
+acidic environment makes both putty and paste more porous and less
+crystalline (Wang et al., 2015). iRoot FS (Fast Set) shares ERRM's
+composition but hardens within an hour at 37 °C in 100% humidity, with
+improved handling (Jiang et al., 2014). Cytotoxicity of ERRM is as low as
+MTA and MTA Angelus (Ciasca et al., 2012; Ma et al., 2011); iRoot BP Plus
+is non-toxic to human pulp cells with a pulp response indistinguishable
+from MTA (Shi et al., 2016), and iRoot FS showed the best cell-adhesion
+capacity of the materials compared (Jiang et al., 2014). In root-end
+microsurgery in dogs, ERRM Putty and MTA healed comparably (Chen et
+al., 2015), and both behaved similarly against planktonic E. faecalis
+(Lovato and Sedgley, 2011).
+
+-- 23 of 132 --
+
+Bioceramic in Dentistry 24
+Expanded & Illustrated Edition
+Figure 2.5 An illustrative property profile: Biodentine trades some radiopacity for faster
+set and easier handling, while MTA remains the reference for sealing and bioactivity.
+
+-- 24 of 132 --
+
+CHAPTER THREE
+Bioceramic Sealers
+BC Sealer · MTA Fillapex · MTA Plus · MTA Obtura
+
+-- 25 of 132 --
+
+Bioceramic in Dentistry 26
+Expanded & Illustrated Edition
+Where cements are placed in bulk, sealers flow into the space between a
+core obturation material and the canal wall, filling voids and lateral
+anatomy. Bioceramic sealers bring the calcium-silicate advantages —
+high pH, calcium release, apatite formation and moisture tolerance — to
+routine canal obturation. They are grouped as pure bioceramic sealers
+and hybrid (resin-containing) sealers (Shen et al., 2015).
+Pure bioceramic sealers Hybrid bioceramic sealers
+EndoSequence BC Sealer / iRoot SP MTA Fillapex
+TechBiosealer endo MTA Plus
+BioRoot RCS MTA Obtura
+Endo-CPM-Sealer
+ProRoot Endo Sealer
+Table 3. Bioceramic and hybrid sealers used in endodontics (Shen et al., 2015).
+3.1 BC Sealer (iRoot SP)
+EndoSequence BC Sealer, known as iRoot SP, is a ready-mixed sealer of
+tricalcium and dicalcium silicate, monobasic calcium phosphate,
+zirconium oxide, colloidal silica and calcium hydroxide (Hess et al.,
+2011). Zirconium oxide gives it a radiopacity of 3.83 mm aluminium —
+above the 3.00 mm minimum but below AH Plus at 6.94 mm (de Miranda
+Candeiro et al., 2012; Loushine et al., 2011). It is pre-mixed with water
+and free of liquid-thickening carriers; both absorbed water and water
+generated by the reaction between calcium phosphates and calcium
+hydroxide feed the calcium-silicate-hydrate phase, within which
+hydroxyapatite precipitates and reinforces the sealer–dentine bond
+(Loushine et al., 2011; Yang et al., 2002). Because of this it is difficult to
+remove completely from canals (Hess et al., 2011; Ma et al., 2012).
+
+-- 26 of 132 --
+
+Bioceramic in Dentistry 27
+Expanded & Illustrated Edition
+Clinical note — dry the canal, restore the crown
+• BC Sealer's set and microhardness depend on water balance: too much
+water lengthens the set and softens the material (Loushine et al., 2011).
+• Dry the canal before filling and provide a sound coronal restoration to
+avoid leakage and material deterioration.
+BC Sealer has higher pH, calcium-ion release and flow than AH Plus
+(Loushine et al., 2011). Reports on bond strength vary — higher than AH
+Plus, Epiphany and MTA Fillapex in one study (DeLong et al., 2015);
+similar to AH Plus in others (Ersahan and Aydin, 2010; Sagsen et al.,
+2011); lower than AH Plus in another (Amin et al., 2012) — differences
+attributed to obturation technique and sealer brand. Solubility findings
+likewise differ (Borges et al., 2012; Ersahan and Aydin, 2010).
+Cytotoxicity depends on time and concentration: moderate when fresh,
+slight once set, and absent after long-term setting and high dilution
+(Mukhtar-Fayyad, 2011; Zhang et al., 2010b). iRoot SP induces
+biomineralisation and hard-tissue deposition (Güven et al., 2013; Zhang
+et al., 2010a) and is antibacterial against E. faecalis, with 18%, 35% and
+45% of dentinal-tubule bacteria killed at 1, 7 and 30 days (Wang et al.,
+2014; Zhang et al., 2009).
+3.2 MTA Fillapex
+MTA Fillapex was designed to merge MTA's biological behaviour with the
+handling of a resin-based sealer (Silva et al., 2013). It offers acceptable
+working time and high radiopacity (though lower than AH Plus) and much
+higher flow than AH Plus (Silva et al., 2013; Xuereb et al., 2015). Its pH
+rose to about 10.06 after 15 hours in water, favouring apatite deposition
+and antibacterial activity, but it had the highest solubility of the sealers
+examined (Faria-Júnior et al., 2013) — a long-term disadvantage because
+solubility degrades the seal and permits fluid leakage. Its bond strength
+is consistently lower than AH Plus and iRoot SP, attributed to weak
+tag-like structures (Assmann et al., 2012; Sagsen et al., 2011), and its
+microleakage exceeds MTA and MTA Plus (Sönmez et al., 2012). Most
+studies find it cytotoxic — possibly from lead release or its salicylate
+resin — with a reduction in cell viability (Bin et al., 2012; Zhou et al.,
+2015), although one report described recovery of viability after three
+
+-- 27 of 132 --
+
+Bioceramic in Dentistry 28
+Expanded & Illustrated Edition
+days and apatite formation in osteoblast-like cells (Salles et al., 2012). It
+shows antibiofilm activity against E. faecalis (Faria-Júnior et al., 2013).
+3.3 MTA Plus
+MTA Plus is a lower-cost, finer-powder material with a composition similar
+to white ProRoot MTA that can be mixed with either a gel or a liquid
+(Gandolfi et al., 2014). Mixed with gel it serves as a root-canal sealer
+with improved handling and washout resistance (DeLong et al., 2015);
+varying the powder-to-gel ratio tunes setting time and rheology (Gandolfi
+et al., 2014). It shows greater reactivity than ProRoot MTA, with
+sustained calcium release and alkalinisation linked to its solubility, fine
+powder, water sorption, porosity and calcium-phosphate formation. Both
+MTA Plus and BC Sealer bond well in a single-cone technique, but MTA
+Plus bonds less well under continuous-wave compaction, while showing
+minimal chemical change under vertical gutta-percha compaction
+(Viapiana et al., 2015). Its cytotoxic risk is minimal and concentration-
+and time-dependent, and the grey form may support cell viability better
+than white (Eid et al., 2014).
+3.4 MTA Obtura
+MTA Obtura resembles grey MTA — Portland-cement clinker and bismuth
+oxide — mixed with a liquid resin that also initiates cure (Vasconcelos et
+al., 2011). It combines MTA's biologic and sealing behaviour for
+gutta-percha or Resilon obturation (Camilleri et al., 2011). Its flow
+(27.65 mm) is lower than AH Plus (37.47 mm) but still exceeds the
+ADA/ISO minimum of 20 mm (Bernardes et al., 2010). It seals well to day
+30, but leakage becomes severe by day 60 (Vasconcelos et al., 2011).
+
+-- 28 of 132 --
+
+Bioceramic in Dentistry 29
+Expanded & Illustrated Edition
+At a glance — bioceramic sealers
+• Extremely hydrophilic: canal and dentinal-tubule moisture is an
+advantage, not a hazard.
+• pH above 12 while unset gives calcium-hydroxide-like antibacterial
+activity.
+• Slight expansion, no shrinkage, insolubility in tissue fluids, and bonding
+to bioceramic-coated gutta-percha eliminate the core–sealer gap.
+• Long-term randomised trials are still needed to confirm clinical
+performance.
+A systematic review of pre-mixed calcium-silicate sealers found good
+in-vitro physicochemical and biological properties and results in animal
+studies that matched or exceeded conventional sealers, while noting the
+shortage of well-designed long-term clinical trials (Almeida et al., 2017).
+Trope et al. (2015) summarised the class: highly hydrophilic, so canal
+moisture helps rather than harms; unset pH above 12 for antibacterial
+activity; setting at variable rates in different environments; slight
+expansion without shrinkage; insolubility in tissue fluids; and bonding to
+bioceramic-coated gutta-percha. Randomised double-blind trials remain
+necessary to confirm clinical performance.
+
+-- 29 of 132 --
+
+CHAPTER FOUR
+Clinical Uses of
+Bioceramic Materials
+From the surgical root end to the immature tooth
+
+-- 30 of 132 --
+
+Bioceramic in Dentistry 31
+Expanded & Illustrated Edition
+The properties surveyed in the preceding chapters translate into a broad
+clinical repertoire. This chapter follows the material from the surgical
+root end, through perforation and resorption repair, to canal obturation,
+vital pulp therapy and the management of the immature tooth.
+1. Retrograde filling
+Endodontic surgery preserves teeth with post-treatment periapical
+disease when orthograde retreatment cannot address the cause — apical
+infection in inaccessible areas, foreign-body reactions, extraradicular
+infection or true cysts (Wu and Wesselink, 2005). Over two decades
+apical surgery has become microsurgery, adding magnification,
+illumination, microinstruments, ultrasonic contra-angle tips and more
+biocompatible materials (Kim and Kratchman, 2006). After the root end
+is resected, a retrograde filling seals the canal from the apical direction.
+Figure 4.1 In apicoectomy the diseased root end is resected and a biocompatible
+bioceramic retrofill seals the canal, allowing periapical healing.
+An ideal root-end material has demanding requirements (San Chong et
+al., 2004):
+
+-- 31 of 132 --
+
+Bioceramic in Dentistry 32
+Expanded & Illustrated Edition
+1. Bonds to dentinal walls and seals the root end in three dimensions.
+2. Prevents rather than encourages the growth of pathogenic
+micro-organisms.
+3. Dimensionally stable and impervious to moisture, set or unset.
+4. Well tolerated by periradicular tissues, with no inflammatory reaction.
+5. Able to stimulate regeneration of the periodontium.
+6. Not cytotoxic locally or systemically.
+7. Not electrochemically active and does not corrode.
+8. Does not discolour tooth or periradicular tissues.
+9. Radiopaque.
+10.Easy to handle, with a long shelf life.
+Table 4. Requirements of an ideal root-end filling material.
+Because materials available before 1993 met few of these criteria, MTA
+was introduced specifically as a root-end filling and quickly gained a
+reputation for superior sealing and biocompatibility (Kim and Kratchman,
+2006; Torabinejad et al., 1995b). In a classic bacterial-leakage study,
+most amalgam, Super-EBA and IRM samples leaked within 6–57 days,
+whereas MTA resisted leakage across 90 days (Torabinejad et al.,
+1995c); MTA also consistently promoted regeneration of periodontal
+ligament and cementum (Kim and Kratchman, 2006). MTA Plus proved
+equivalent to MTA as a root-end filling at one-year follow-up (Zhou et al.,
+2017).
+MTA's limitations — difficult handling, long set and low washout
+resistance — spurred development of newer root-repair bioceramics
+combining calcium silicate and calcium phosphate: BioAggregate, ERRM
+(putty and paste) and iRoot FS. BioAggregate matched white MTA for
+leakage as a root-end filling (Leal et al., 2011) and stimulated
+odontoblastic differentiation and mineralisation in pulp cells (Zhang et
+al., 2013). In root-end microsurgery in dogs, ERRM Putty produced better
+tissue healing at the resected surface than MTA (Chen et al., 2015), and
+the two had similar sealing ability in a nutrient-leakage model (Antunes
+et al., 2016).
+
+-- 32 of 132 --
+
+Bioceramic in Dentistry 33
+Expanded & Illustrated Edition
+2. Perforation repair
+2.1 Furcal perforations
+Furcation perforations connect the root-canal space to the periradicular
+tissues, arising from iatrogenic error or from pathology such as caries
+and resorption (AAE, 2015). The resulting inflammation damages the
+periodontal ligament and resorbs bone and dental tissue, and can rapidly
+open a route to the gingival sulcus with irreversible loss of attachment.
+Figure 4.2 Perforations at the furcal floor and along the lateral root wall both demand
+an immediate, biocompatible, moisture-tolerant seal.
+MTA remains the gold standard for furcal repair, giving a favourable
+periradicular response and induced mineralisation in vivo (Parirokh and
+Torabinejad, 2010b; Zairi et al., 2012). Because MTA's iron oxide can
+discolour marginal gingiva and crown, tricalcium-silicate cements such
+as Biodentine — without staining heavy metals, with good sealing,
+antimicrobial activity and a shorter set — were developed as alternatives
+(Kang et al., 2015). Biodentine allowed formation of mineralised bridges
+thicker than those with MTA after pulpotomy in dogs (De Rossi et al.,
+2014); a later study found MTA gave a higher rate of complete sealing
+and thicker new mineralised tissue, with Biodentine still adequate (Silva
+
+-- 33 of 132 --
+
+Bioceramic in Dentistry 34
+Expanded & Illustrated Edition
+et al., 2017). Both materials induce mineralisation markers — alkaline
+phosphatase, osteopontin and RUNX2 (Daltoé et al., 2016).
+2.2 Lateral root perforations
+Lateral perforations can occur at any canal level; the more coronal the
+site, the easier it is to repair the perforation and obturate the canal
+separately. The canal is usually filled first, carefully avoiding sealer
+contamination of the perforation, and during repair the cement is kept
+from dropping into the empty canal. Success depends on the elapsed
+time before treatment and the perforation's location and size (Fuss and
+Trope, 1996). Ford et al. (1995) found no clear link between size and
+prognosis, and MTA has healed large perforations in case reports (Arens
+and Torabinejad, 1996).
+Location is decisive. Fuss and Trope (1996) defined the critical zone at
+the crestal bone and epithelial attachment: perforations apical or coronal
+to it have a good prognosis, whereas crestal perforations invite epithelial
+migration and periodontal breakdown and heal least well; a periodontal
+defect connecting the mouth to the perforation worsens the outlook
+(Ford et al., 1995). Treatment should be immediate sealing with a
+biocompatible material that is insoluble in tissue fluids and promotes
+tissue regeneration (Beavers et al., 1986; Holland et al., 2007). Older
+materials — amalgam, Cavit, calcium hydroxide, Super-EBA,
+calcium-phosphate cement, glass ionomer, decalcified freeze-dried bone
+— are insufficiently biocompatible against bone, so teeth with
+perforations carried an uncertain prognosis before MTA (Farzaneh et al.,
+2004; Fuss and Trope, 1996). MTA has since proved successful for both
+furcal and lateral perforations (Main et al., 2004; Regan et al., 2002).
+Lemon (1992) described the requirements of an ideal repair material
+(Table 5):
+1. Allows a hermetic seal.
+2. Insoluble and non-resorbable.
+3. Impervious to haemorrhage.
+4. Manageable, to avoid extrusion.
+5. Biocompatible.
+
+-- 34 of 132 --
+
+Bioceramic in Dentistry 35
+Expanded & Illustrated Edition
+6. Stimulates osteogenesis and cementogenesis.
+7. Non-toxic and non-carcinogenic.
+8. Available and easily obtainable.
+9. Not harmful to patient or dentist.
+10.Inexpensive.
+Table 5. Requirements of an ideal repair material.
+3. Internal inflammatory root resorption
+3.1 Internal resorption in the root canal
+Internal resorption follows destruction of the organic sheath, predentine
+and odontoblast layer, exposing mineralised dentine to pulpal cells with
+resorptive potential. Contrary to earlier belief it is often associated with
+pulpitis and stops once the pulp becomes necrotic (Gabor et al., 2012).
+Predisposing factors include trauma, pulpotomy, transplantation,
+invagination, restorative and orthodontic procedures, and even
+herpes-zoster infection. It is rarer than external resorption and can be
+confused with external cervical resorption, risking misdiagnosis (Frank,
+1981; Patel et al., 2009).
+Once confirmed and if the tooth is restorable, conventional root-canal
+treatment is performed to remove vital and necrotic remnants that could
+feed the resorbing cells and to disinfect and fill the system
+(Endodontology, 2006). Where the root is not perforated,
+chemo-mechanical debridement with calcium hydroxide (for large
+defects) followed by gutta-percha and sealer is sufficient — bioceramics
+are not specifically required (Haapasalo et al., 2015). Once resorption
+has perforated the root, however, bioceramic cements are an excellent
+choice: they tolerate moisture and small amounts of blood, seal well to
+dentine, are antimicrobial and have dentine-like mechanical properties
+(Altundasar and Demir, 2009; Torabinejad et al., 1995a).
+3.2 Internal resorption in the pulp chamber
+Non-perforating chamber resorption does not require bioceramics and is
+straightforward to manage. If a perforation has occurred, the material is
+chosen by size and location: bioceramic cements are tapped gently
+
+-- 35 of 132 --
+
+Bioceramic in Dentistry 36
+Expanded & Illustrated Edition
+against the tissue with large inverted paper points to fill perforations
+apical to the junctional epithelium, while the rest of the chamber is
+restored according to the overall plan (Haapasalo et al., 2015).
+4. Invasive cervical resorption
+4.1 Type I and II cervical resorption
+Invasive (external) cervical resorption (ECR) begins just below the
+epithelial attachment and remains poorly understood. Defects in the
+cementum layer expose dentine to clastic cells, and the anatomy of the
+cemento-enamel junction — where cemental gaps are common — leaves
+dentine unprotected and liable to osteoclastic resorption (Fuss et al.,
+2003; Neuvald and Consolaro, 2000). Predisposing factors include
+trauma, orthodontics, internal bleaching, surgery, periodontal therapy,
+bruxism, intracoronal restorations, developmental defects and systemic
+disease (Heithersay, 1999; Patel et al., 2009). ECR is usually aseptic but
+can be secondarily colonised by micro-organisms from the sulcus or a
+necrotic pulp (Heithersay, 2004; Trope, 2002).
+Heithersay (2004) classified ECR by depth of invasion: Class 1, shallow
+and cervical; Class 2, into coronal dentine near the pulp; Class 3, into the
+coronal third of the root; Class 4, beyond the coronal third. Clinically it
+presents in the cervical region, sometimes as a pink spot, with a positive
+vitality response until the pulp is involved; advanced lesions bleed
+profusely on probing and have sharp cavity margins (Patel et al., 2009).
+
+-- 36 of 132 --
+
+Bioceramic in Dentistry 37
+Expanded & Illustrated Edition
+Figure 4.3 The Heithersay classes describe progressive apical and pulpal invasion of the
+resorptive lesion; class guides both access and restorative material.
+Treatment aims to remove the resorptive soft tissue, separate the lesion
+from its periodontal attachment to stop clastic-cell repopulation, and
+restore the cavity — dictated by severity, location, any perforation and
+restorability (Patel et al., 2009). Class 1 and 2 lesions are often treated
+surgically from outside with reinforced glass ionomer or bonded
+composite; bioceramic cements may partly wash out during the slower
+set (Haapasalo et al., 2015). If the cavity is close to the pulp, root-canal
+treatment precedes flap reflection, lesion removal and curettage of
+granulomatous tissue to cut the clastic-cell blood supply, before
+restoration and suturing (Trope, 2002). A deep Class 2 lesion may
+instead be treated through the canal (Haapasalo et al., 2015). Heithersay
+(2004) advised topical 90% trichloroacetic acid to induce coagulation
+necrosis of the lesion before curettage and glass-ionomer restoration.
+4.2 Type III and IV cervical resorption
+Most Class 3 and 4 lesions are accessed through the canal without
+surgery, making bioceramic cements very suitable for restoring the
+resorptive region (Bakland and Andreasen, 2012; Park and Lee, 2008).
+Inter-appointment calcium hydroxide is used after access, irrigation and
+removal of resorption-affected dentine; the canal apical to the resorption
+is filled with gutta-percha and sealer or with bioceramic cement, and the
+large resorptive region is filled with bioceramic cement placed via a
+
+-- 37 of 132 --
+
+Bioceramic in Dentistry 38
+Expanded & Illustrated Edition
+carrier and large paper point. A cotton pellet over the cement until the
+next visit confirms complete setting. RRM Putty and FS Putty aid
+radiographic assessment through high radiopacity, whereas Biodentine is
+less radiopaque (Haapasalo et al., 2015).
+Because of their mechanical and biological behaviour, bioceramic
+cements can be used across the stages of invasive cervical resorption.
+Periodontal reattachment is unlikely with bonded composite, amalgam or
+glass ionomer, but experimental evidence suggests it may be feasible
+with MTA in this position (Ford et al., 1995; Koh et al., 1997).
+5. Orthograde bioceramic root-canal filling
+Obturation provides a fluid-tight barrier that protects the periradicular
+tissues from oral micro-organisms. Three goals define a sound
+obturation: prevent coronal leakage of organisms and nutrients, prevent
+periodontal and periapical fluids from leaching in to feed organisms, and
+entomb any organisms surviving disinfection (Sundqvist and Figdor,
+1998). Grossman (1978) listed the ideal properties of a root-filling
+material (Table 6):
+1. Easy to handle, with adequate working time.
+2. Seals the canal laterally and apically and adapts to complex
+anatomy.
+3. Dimensionally stable.
+4. Non-irritant to periapical tissues.
+5. Does not stain tooth structure.
+6. Antimicrobial.
+7. Impervious to moisture and non-porous.
+8. Unaffected by tissue fluid.
+9. Radiopaque.
+10.Easily removed from the canal.
+Table 6. Properties of an ideal root-canal filling.
+
+-- 38 of 132 --
+
+Bioceramic in Dentistry 39
+Expanded & Illustrated Edition
+No material meets every requirement, and an added ideal — active
+stimulation of periradicular regeneration — favours bioceramics: MTA
+regenerated human periodontal ligament with cement-like tissue on its
+surface, matching animal findings (Bartols et al., 2017). Because
+gutta-percha and sealer can leak within 3–30 days in vitro (Fransen et al.,
+2008; Madison and Wilcox, 1988), the canal or its apical part is
+sometimes obturated with a bioceramic cement (Al-Hezaimi et al., 2005;
+De-Deus et al., 2008): before a planned apicoectomy, to simplify surgery;
+where internal resorption has perforated the mid or apical canal; or in
+persisting symptoms, where the sealing ability and antimicrobial activity
+of the cement may resolve the case (Haapasalo et al., 2015). Bioceramic
+cements are chosen when the material–tissue interface is larger than
+normal — wide open apices, perforations and retrograde fillings (Tomson
+et al., 2014) — and MTA is an option for complete or partial filling of
+anatomically complex teeth such as C-shaped canals, fusion/gemination
+and dens evaginatus (Bogen and Kuttler, 2009).
+6. Pulp capping and vital pulp therapy
+Preserving pulp vitality is vital in immature permanent teeth, where
+continued vitality allows complete root formation (Laurent et al., 2012).
+Vital pulp therapy aims to retain the pulp and induce the pulp–dentine
+complex to regenerate and form tertiary dentine — especially important
+where the apex is still developing (Bogen and Chandler, 2008). Options
+range from indirect and direct pulp capping to partial and full pulpotomy,
+chosen by the extent of pulp involvement.
+
+-- 39 of 132 --
+
+Bioceramic in Dentistry 40
+Expanded & Illustrated Edition
+Figure 4.4 A practical way to picture vital pulp therapy: as pulp involvement increases,
+the intervention escalates from indirect capping to full pulpotomy.
+The American Association of Endodontists defines direct pulp capping
+(DPC) as sealing an exposed vital pulp with a material such as calcium
+hydroxide or MTA to promote reparative dentine and maintain vitality
+(AAE, 2003). The ideal capping material seals the wound, differentiates
+pulp cells into odontoblasts, is biocompatible and antimicrobial, and has
+adequate mechanical strength (Koh et al., 1997; Zhang et al., 2013).
+Calcium hydroxide was traditional but has drawbacks — tunnel defects in
+the dentine bridge, high solubility, chamber obliteration, poor adhesion
+and degradation after acid etching (Asgary and Ahmadyar, 2013; Stanley
+and Pameijer, 1997) — so MTA and Biodentine are now preferred.
+MTA induces dentinogenesis more quickly and homogeneously than
+calcium hydroxide and encourages granulation-tissue formation that aids
+healing (Dammaschke et al., 2010); bioceramics also surpass calcium
+hydroxide in mechanical properties, sealing and often biocompatibility
+(Ma et al., 2011). A randomised trial of 376 patients confirmed MTA's
+superiority as a DPC material at two years (Hilton et al., 2013), and in
+carious molar exposures MTA outperformed calcium hydroxide (85% vs
+52% success; Kundzina et al., 2016). MTA and Biodentine each achieved
+100% success in young first permanent molars over 6–12 months (Katge
+
+-- 40 of 132 --
+
+Bioceramic in Dentistry 41
+Expanded & Illustrated Edition
+and Patil, 2017), and iRoot BP Plus matched MTA for complete barrier
+formation in dogs (Shi et al., 2016).
+Partial pulpotomy removes only superficial unhealthy pulp, preserving
+the bulk of vital tissue (Cvek, 1978). ProRoot MTA and hard-setting
+calcium hydroxide both gave favourable outcomes over two years, with
+worse results when exposures exceeded 5 mm² (Chailertvanitkul et al.,
+2014). Although classically contraindicated in irreversible pulpitis, MTA
+performed well in mature teeth: partial pulpotomy succeeded in 85% of
+MTA cases versus 43% for calcium hydroxide at two years (Taha and
+Khazali, 2017). Biodentine and ProRoot MTA induced complete dentinal
+bridges and outperformed TheraCal (Bakhtiar et al., 2017). A full
+pulpotomy removes the entire coronal pulp to the canal orifices and
+shares the indications of partial pulpotomy where inflammation is more
+extensive (Trope, 2008). Grey MTA has been advocated for pulpotomy
+even in permanent teeth with irreversible pulpitis (Barrieshi-Nusair and
+Qudeimat, 2006), and in a retrospective series MTA succeeded in 84% of
+irreversible-pulpitis teeth and 76% of teeth with periapical radiolucency
+(Linsuwanont et al., 2017). Many cements appear broadly
+interchangeable — Biodentine matched MTA for mineralised-bridge
+formation (De Rossi et al., 2014).
+7. Teeth with necrotic pulps and open apices
+A young permanent tooth with pulp necrosis is a restorative and
+endodontic challenge: loss of vitality halts dentine and apex formation,
+leaving thin, fracture-prone walls — the immature tooth. Apexification
+induces a calcified apical barrier or continued apical development (AAE,
+2003).
+
+-- 41 of 132 --
+
+Bioceramic in Dentistry 42
+Expanded & Illustrated Edition
+Figure 4.5 Apexification builds an artificial apical barrier; regenerative endodontics
+aims to thicken the walls and close the apex with new vital tissue.
+Calcium hydroxide apexification is effective (success up to ~90%) but
+slow and unpredictable, needs multiple visits, risks reinfection and
+fracture, and leaves a porous 'Swiss-cheese' barrier (Ballesio et al., 2006;
+Felippe et al., 2005). Bioceramic cements are now the preferred option: a
+plug is tapped into the apical canal at the first or second visit and the
+remaining canal filled as the case requires (Hachmeister et al., 2002;
+Karp et al., 2006; Mente et al., 2013). MTA gives earlier radicular and
+coronal filling and reduces fracture risk relative to calcium hydroxide
+(Mente et al., 2013); in one outcome study all MTA cases healed versus 2
+of 15 calcium-hydroxide failures (El Meligy and Avery, 2006), and MTA
+reached comparable healing in significantly less treatment time (Pradhan
+et al., 2006).
+MTA is widely used for single-visit apexification for its regenerative
+capacity, antibacterial action, biocompatibility, sealing and improvement
+of fracture resistance (Yadav et al., 2015). Despite handling difficulty,
+long set and discolouration, 96% of non-vital immature teeth treated
+with an MTA barrier and bonded restoration were healed and functional
+at 5–15 years (mean 8.29; Ree and Schwartz, 2017). Biodentine has
+shown favourable outcomes as an apical plug (Vidal et al., 2016);
+
+-- 42 of 132 --
+
+Bioceramic in Dentistry 43
+Expanded & Illustrated Edition
+micro-CT found ProRoot MTA better adapted than MTA Angelus, with
+mechanically mixed products handling better (Sisli and Ozbas, 2017),
+while ProRoot MTA, MTA Plus and BC Root Repair Material-FS Putty
+adapted similarly, the last improved by prior BC Sealer application (Tran
+et al., 2016).
+8. Regenerative endodontics
+Immature necrotic teeth may be managed by long-term
+calcium-hydroxide apexification, MTA apexification, or regenerative
+endodontic treatment (RET) (Hargreaves et al., 2013). Long-term calcium
+hydroxide weakens root structure, and although an MTA plug allows
+earlier filling, MTA apexification does not thicken the walls or promote
+root development, so both apexification methods leave the tooth
+fracture-prone (Cvek, 1992; Jeeruphan et al., 2012; Mente et al., 2013;
+Torabinejad et al., 2017). RET, first proposed in the 1970s by
+Nygaard-Østby, seeks to overcome this.
+RET comprises 'biologically based procedures designed to replace
+damaged structures, including dentine and root structures and cells of
+the pulp–dentine complex' (Murray et al., 2007). Torabinejad and
+McDonald (2009) described the ideal RET material (Table 7):
+1. Withstands bacterial leakage long-term.
+2. Not difficult to handle.
+3. Radiopaque.
+4. Impervious to moisture.
+5. Non-absorbable in tissue fluids.
+6. Non-toxic to human tissue.
+7. Non-carcinogenic.
+8. Does not stain tooth structure.
+9. Impenetrable.
+10.Antibacterial and antifungal.
+11.Biocompatible.
+
+-- 43 of 132 --
+
+Bioceramic in Dentistry 44
+Expanded & Illustrated Edition
+Table 7. Properties of an ideal material for RET.
+It should also help the residual pulp recover and encourage new hard
+and soft tissue — requirements largely met by bioceramics. White MTA is
+the material of choice, placed as a plug in the middle or coronal third
+after disinfection with triple antibiotic paste; a blood clot or platelet-rich
+plasma provides an apical scaffold before MTA seals the access
+(Diogenes et al., 2013). MTA use may support periodontal-ligament
+healing (Maeda et al., 2010), and Biodentine and BioAggregate matched
+MTA in stimulating odontoblastic differentiation and mineralisation via
+MAP-kinase activation (Jung et al., 2015).
+Retrospectively, RET produced greater increases in root length and
+thickness than MTA or calcium-hydroxide apexification, with survival of
+100%, 95% and 77.2% respectively (Jeeruphan et al., 2012). Yet RET and
+MTA apexification gave comparably good disease resolution and tooth
+retention without predictable further root development (Silujjai and
+Linsuwanont, 2017), and high-quality head-to-head trials are still lacking
+— large, long-term randomised multicentre studies are needed
+(Torabinejad et al., 2017).
+
+-- 44 of 132 --
+
+CHAPTER FIVE
+Bioceramics across
+Dentistry
+Restorative, prosthodontic, implant and regenerative uses
+
+-- 45 of 132 --
+
+Bioceramic in Dentistry 46
+Expanded & Illustrated Edition
+About this chapter
+This chapter is expository background compiled for the expanded edition. It
+summarises widely accepted dental-materials science and, unlike the
+endodontic chapters, does not carry author–year citations. Product names
+are given only as familiar examples.
+The endodontic materials described so far are one branch of a much
+larger family. The same ceramic chemistry — and the same idea of a
+material that is either inert, bioactive or resorbable — runs through
+almost every discipline of dentistry, from the crown that restores a tooth
+to the graft that rebuilds the bone beneath it. This chapter surveys that
+wider landscape and shows how the properties emphasised earlier
+(biocompatibility, apatite formation, alkalinity, strength) reappear in new
+clinical roles.
+Figure 5.1 A single materials family serves many dental disciplines; the calcium-silicate
+cements of endodontics sit alongside structural ceramics, implant materials and
+regenerative scaffolds.
+5.1 A common chemistry, many roles
+It is useful to separate two broad groups. Structural (restorative)
+ceramics — dental porcelains and oxide ceramics — are prized chiefly for
+
+-- 46 of 132 --
+
+Bioceramic in Dentistry 47
+Expanded & Illustrated Edition
+strength, wear resistance and appearance; most are essentially bioinert
+and are chosen to replace lost tooth structure above the gum line.
+Bioactive and resorbable bioceramics — calcium silicates,
+hydroxyapatite, other calcium phosphates and bioactive glasses — are
+chosen for how they interact with living tissue: they seal, they release
+ions, they template new mineral and, in some cases, they are replaced
+by the tissue they help to heal. Endodontic bioceramics belong firmly to
+the second group, but a complete picture of dentistry requires both.
+5.2 Restorative dentistry: liners, bases and
+dentine substitutes
+Beneath a filling, the pulp must be protected from thermal, chemical and
+bacterial insult. For decades calcium hydroxide was the standard liner
+over deep dentine and near exposures, prized for its alkalinity and its
+ability to stimulate reparative dentine — but limited by solubility, low
+strength and a porous dentine bridge. Calcium-silicate materials have
+changed this picture. The same tricalcium-silicate chemistry that makes
+MTA valuable in the root canal makes it, and its faster-setting relatives,
+excellent dentine substitutes.
+Biodentine is marketed explicitly as a dentine-replacement material: it
+can line or base a deep cavity, cap an exposed pulp, and even serve as a
+temporary full-dentine restoration under a definitive coronal restoration,
+thanks to its short set, useful strength and calcium release. Light-cured
+calcium-silicate liners add resin to allow on-command setting and easy
+placement as a thin protective layer under composite. In each case the
+attraction is bioactivity — an alkaline, calcium-releasing surface that
+encourages mineralisation — combined with better mechanical
+behaviour and lower solubility than calcium hydroxide. Conventional and
+resin-modified glass-ionomer cements, while not calcium-silicate
+ceramics, occupy an adjacent niche: they bond to tooth structure,
+release fluoride and are often described as bioactive, and they remain
+widely used as liners, bases and restorations.
+
+-- 47 of 132 --
+
+Bioceramic in Dentistry 48
+Expanded & Illustrated Edition
+At a glance — the modern liner/base
+• Calcium-silicate liners give an alkaline, calcium-releasing, bioactive
+surface over deep dentine.
+• They set faster and are stronger and less soluble than traditional
+calcium hydroxide.
+• Biodentine can act as a bulk dentine substitute beneath a definitive
+restoration.
+5.3 Dental ceramics for restorations
+When a tooth needs a veneer, inlay, onlay, crown or bridge, the material
+of choice is increasingly an all-ceramic restoration. Dental ceramics are
+conventionally grouped by microstructure: predominantly glassy
+ceramics (feldspathic porcelain), particle-filled glasses (leucite-reinforced
+and lithium-disilicate glass-ceramics), interpenetrating glass-infiltrated
+ceramics, and fully crystalline polycrystalline oxide ceramics (alumina
+and, above all, zirconia).
+Figure 5.2 As microstructure shifts from glassy to polycrystalline, strength rises while
+translucency tends to fall — though modern high-translucency zirconias soften the
+trade-off.
+The clinically important consequence is a trade-off between strength and
+appearance. Glassy feldspathic porcelain is exquisitely lifelike but
+relatively weak, suiting veneers and conservative anterior work. Leucite-
+
+-- 48 of 132 --
+
+Bioceramic in Dentistry 49
+Expanded & Illustrated Edition
+and lithium-disilicate glass-ceramics add strength while retaining good
+aesthetics, making lithium disilicate a workhorse for anterior and
+posterior crowns. Zirconia — yttria-stabilised tetragonal zirconia
+polycrystal (Y-TZP) — is the strongest, its toughness enhanced by a
+remarkable mechanism called transformation toughening, in which
+crystal grains change phase at an advancing crack tip and squeeze it
+shut. Zirconia is used for high-load crowns, multi-unit bridges, implant
+abutments and, increasingly, as monolithic (single-material) restorations;
+newer multilayer and high-translucency formulations have narrowed its
+historic aesthetic disadvantage.
+Figure 5.3 All-ceramic restorations range from conservative veneers, inlays and onlays
+to full-coverage crowns.
+Most modern ceramic restorations are produced by CAD/CAM: a solid
+ceramic block is milled to shape from a digital design and, for oxide
+ceramics, sintered to full density. Because glassy and glass-ceramic
+materials can be etched and silane-treated, they bond predictably to
+tooth structure with resin cements; the denser oxide ceramics rely more
+on mechanical retention and specialised primers. The choice among
+ceramics is therefore a balance of load, aesthetic demand, tooth
+preparation and the bonding protocol available.
+5.4 Prosthodontics and the restored tooth
+Seen together, bioceramics appear at almost every level of a restored
+tooth. A ceramic crown or veneer rebuilds the visible surface; a
+calcium-silicate liner or base protects the pulp; and, where the tooth has
+been treated endodontically, a bioceramic cement or sealer occupies the
+
+-- 49 of 132 --
+
+Bioceramic in Dentistry 50
+Expanded & Illustrated Edition
+canal. In an edentulous site, a ceramic-surfaced implant carries a
+ceramic abutment and crown. The materials differ in purpose —
+structural above, bioactive below — but they share a common ceramic
+ancestry.
+Figure 5.4 From crown to canal to implant, ceramic materials of different kinds
+cooperate to restore form and function.
+5.5 Implant dentistry
+Dental implants succeed through osseointegration — a direct structural
+and functional connection between living bone and the implant surface.
+While titanium remains the reference material, ceramics contribute in
+two ways. First, zirconia implants offer a metal-free, tooth-coloured
+alternative with good biocompatibility and soft-tissue response,
+attractive where aesthetics or metal sensitivity are concerns. Second,
+bioactive coatings — most familiarly plasma-sprayed hydroxyapatite —
+are applied to implant surfaces to speed and strengthen the bone
+response: the coating presents a calcium-phosphate surface onto which
+bone grows and bonds directly, rather than merely apposing an inert
+metal.
+
+-- 50 of 132 --
+
+Bioceramic in Dentistry 51
+Expanded & Illustrated Edition
+Figure 5.5 A bioactive (hydroxyapatite) surface invites bone to grow up to and bond
+with the implant, reinforcing osseointegration.
+5.6 Bone regeneration: grafting and guided
+regeneration
+Rebuilding lost alveolar bone — after extraction, around implants, in
+periodontal defects or during sinus augmentation — is one of the largest
+uses of bioceramics in dentistry. Calcium-phosphate ceramics such as
+hydroxyapatite and β-tricalcium phosphate (β-TCP), often combined as
+biphasic calcium phosphate, act as osteoconductive scaffolds: a
+biocompatible framework along which the patient’s own bone-forming
+cells migrate and lay down new bone. Hydroxyapatite is relatively stable
+and long-lasting; β-TCP resorbs more readily and is progressively
+replaced by host bone; biphasic materials are engineered to tune this
+balance.
+
+-- 51 of 132 --
+
+Bioceramic in Dentistry 52
+Expanded & Illustrated Edition
+Figure 5.6 An osteoconductive graft provides a scaffold that is gradually resorbed and
+replaced by the patient’s own remodelled bone.
+It helps to distinguish three related ideas. Osteoconduction is the passive
+provision of a scaffold for bone ingrowth — the principal action of
+calcium-phosphate ceramics. Osteoinduction is the active recruitment
+and differentiation of progenitor cells into bone-forming cells, typically
+driven by signalling molecules. Osteogenesis is the formation of bone by
+living cells within a graft. Synthetic ceramic grafts are chiefly
+osteoconductive, which is why they are frequently combined with barrier
+membranes in guided bone regeneration — the membrane excludes
+fast-growing soft tissue so that slower bone can fill the ceramic scaffold
+undisturbed.
+
+-- 52 of 132 --
+
+Bioceramic in Dentistry 53
+Expanded & Illustrated Edition
+Figure 5.7 In guided bone regeneration a barrier membrane holds back fast-growing
+soft tissue, giving the slower bone time to fill the osteoconductive graft.
+5.7 Bioactive glass
+Bioactive glass — the material with which Larry Hench opened the
+modern bioceramics era — deserves its own mention because it appears
+in several dental roles. Its defining trick is a sequence of surface
+reactions in body fluid: ions exchange out of the glass, a hydrated
+silica-gel layer forms, calcium and phosphate accumulate on it, and a
+crystalline hydroxy-carbonate-apatite layer develops that bonds directly
+to tissue — the very chemistry that underlies the bioactivity of
+endodontic calcium silicates.
+
+-- 53 of 132 --
+
+Bioceramic in Dentistry 54
+Expanded & Illustrated Edition
+Figure 5.8 The bioactive-glass surface reaction ends in an apatite layer that bonds to
+tissue — the same end-point as calcium-silicate bioceramics.
+In dentistry this makes bioactive glass useful as a bone-grafting material,
+as a component of remineralising and desensitising agents
+(calcium-sodium-phosphosilicate particles in toothpastes and prophylaxis
+pastes occlude dentinal tubules and release mineral-forming ions), and
+as an air-abrasion powder. The common thread is the material’s ability to
+deliver calcium and phosphate to a mineralising surface.
+5.8 Orthodontics, periodontics and maxillofacial
+use
+Ceramics appear in several further niches. Ceramic orthodontic brackets
+made of alumina or zirconia offer a tooth-coloured, aesthetic alternative
+to metal. In periodontics, the calcium-phosphate and bioactive-glass
+grafts already described are used to regenerate intrabony and furcation
+defects. In oral and maxillofacial surgery, alumina, hydroxyapatite and
+related ceramics have long been used to reconstruct and augment bone,
+echoing their orthopaedic origins. Across all of these, the selection
+principle is the same one that governs endodontic practice: match the
+material’s inertness, bioactivity or resorbability to the biological task at
+hand.
+5.9 Prevention and emerging directions
+The frontier of dental bioceramics is increasingly biological and additive.
+Remineralising formulations aim to reverse early caries and dentine
+
+-- 54 of 132 --
+
+Bioceramic in Dentistry 55
+Expanded & Illustrated Edition
+hypersensitivity by delivering calcium and phosphate to the tooth
+surface. Antibacterial bioceramics exploit the high pH and ion release
+already familiar from endodontic materials. Additive manufacturing (3D
+printing) of ceramics promises patient-specific scaffolds and restorations,
+and tissue-engineering approaches combine resorbable ceramic
+scaffolds with cells and signalling molecules to regenerate — rather than
+merely replace — dental and bony tissue. Regenerative endodontics,
+discussed in Chapter Four, is one clinical expression of this same
+ambition.
+Chapter summary
+• Structural ceramics (porcelains, zirconia) restore the visible tooth;
+bioactive/resorbable bioceramics interact with tissue below it.
+• Calcium-silicate liners and dentine substitutes bring endodontic
+bioactivity into restorative dentistry.
+• Hydroxyapatite, β-TCP and bioactive glass rebuild bone by
+osteoconduction, often with guided regeneration.
+• Bioactive coatings strengthen implant osseointegration; bioactive glass
+also remineralises and desensitises teeth.
+• The shared end-point — apatite formation and tissue bonding — links
+every branch of the family.
+
+-- 55 of 132 --
+
+CHAPTER SIX
+Understanding
+Bioceramic Materials
+Properties, testing and handling
+
+-- 56 of 132 --
+
+Bioceramic in Dentistry 57
+Expanded & Illustrated Edition
+About this chapter
+Like Chapter Five, this is background material for the expanded edition,
+written without new citations. It gathers, in one place, the properties and
+test methods referred to throughout the endodontic chapters.
+The clinical behaviour of a bioceramic follows directly from a handful of
+measurable properties. Understanding how each is defined and tested
+makes the comparisons in earlier chapters easier to interpret and helps
+the clinician read a manufacturer’s data sheet critically.
+6.1 Setting chemistry
+Calcium-silicate bioceramics set by hydration, not by drying: water
+reacts with the silicate phases to form calcium-silicate-hydrate gel and
+calcium hydroxide (see Figure 2.1). The calcium hydroxide dissociates to
+raise pH and supply calcium ions, while the hydrate gel provides
+structure. Because water drives the reaction, these materials tolerate —
+indeed require — the moist environment that degrades many
+conventional cements, a property that recurs in every clinical application
+from root-end filling to implant coatings.
+6.2 How key properties are measured
+Radiopacity lets the clinician confirm a filling radiographically. It is
+measured against an aluminium step-wedge and expressed as an
+equivalent thickness of aluminium; international standards set a
+minimum of about 3 mm. Radiopacifiers such as bismuth oxide or
+zirconium oxide are added to reach clinically useful values (compare
+Figure 2.4).
+Setting time is determined with standardised indenter (Gilmore or Vicat)
+needles, recording the initial set (when the surface first resists
+indentation) and the final set. For calcium-silicate materials the result
+depends strongly on water availability, particle size and any
+accelerators, which is why products range from a few minutes to several
+hours (Figure 2.2).
+
+-- 57 of 132 --
+
+Bioceramic in Dentistry 58
+Expanded & Illustrated Edition
+Solubility and dimensional stability matter because a material that
+dissolves or shrinks loses its seal. Solubility is assessed by mass loss
+after immersion; a good root-end or repair material shows very low
+solubility and slight expansion rather than shrinkage. Flow, important for
+sealers, is measured by compressing a fixed volume between plates and
+recording the disc diameter, against a standardised minimum.
+Mechanical properties are characterised by compressive and flexural
+strength, microhardness, and — specific to endodontics — push-out bond
+strength, which measures resistance to displacement from the canal
+wall. These values are sensitive to mixing, porosity, environmental pH
+and time, so laboratory figures should be read as comparative rather
+than absolute.
+pH and calcium-ion release are followed over time in solution. The
+characteristic rise to a strongly alkaline pH (Figure 2.3) reflects
+continuing calcium-hydroxide formation and is responsible both for
+antibacterial activity while the material is unset and for the apatite
+formation that follows.
+6.3 Biological evaluation
+Biocompatibility is not a single measurement but a hierarchy of
+evidence. Cytotoxicity assays (for example the MTT and XTT tests)
+expose cultured cells to the material or its extracts and measure
+survival; cell-attachment and morphology studies assess how well cells
+settle and spread on the set surface. Biomineralisation markers —
+alkaline phosphatase, osteopontin, osteonectin and transcription factors
+such as RUNX2 — indicate whether a material is actively driving cells
+toward a hard-tissue-forming phenotype. Above these sit animal studies
+and, at the top, randomised controlled clinical trials. As the endodontic
+chapters repeatedly note, the laboratory and animal evidence for
+bioceramics is strong, while long-term randomised clinical data remain
+the principal gap.
+
+-- 58 of 132 --
+
+Bioceramic in Dentistry 59
+Expanded & Illustrated Edition
+Figure 6.1 Confidence in a material grows from laboratory assays at the base to
+randomised clinical trials at the apex; for bioceramics the base is well populated and the
+apex remains the main gap.
+6.4 Handling and clinical tips
+Several practical points recur across applications. Mix to the
+manufacturer’s ratio and avoid incorporating air, which raises porosity
+and lowers strength. Provide adequate — but not excessive — moisture:
+too little prevents set, too much can prolong it and soften the surface.
+Place the material without voids and, where a slow-setting cement is
+used, protect it (for example with a moist cotton pellet) until set is
+confirmed. Where discolouration matters, prefer white or
+heavy-metal-free formulations. Finally, a bioceramic seal is only as
+durable as the coronal restoration above it: a sound, well-sealed
+restoration is essential to prevent leakage and protect the result.
+
+-- 59 of 132 --
+
+Bioceramic in Dentistry 60
+Expanded & Illustrated Edition
+Choosing a material — practical questions
+• Is the site wet, and will it stay wet? Calcium-silicate materials tolerate
+moisture well.
+• How fast must it set? Favour Biodentine or fast-set repair materials
+where time is limited.
+• Is aesthetics at stake? Avoid bismuth- and iron-oxide-containing
+products near visible tissue.
+• Is bulk strength or a thin sealing film required? Choose a cement or a
+sealer accordingly.
+6.5 Limitations and precautions
+For all their advantages, bioceramics have real constraints. Like all
+ceramics they are brittle, with limited crack resistance. Some
+formulations discolour tooth or soft tissue through bismuth or iron oxide.
+Set material can be difficult to remove if retreatment is later needed.
+Slow-setting products demand patience or protective measures, and cost
+can exceed that of traditional materials. Above all, the clinical evidence
+base, though growing, still lacks the long-term randomised trials that
+would place many indications beyond doubt. These limitations do not
+diminish the value of the materials, but they define where care and
+judgement are required.
+
+-- 60 of 132 --
+
+CHAPTER SEVEN
+Dental Adhesives
+Bonding restorations to enamel, dentine, ceramics — and
+bioceramics
+
+-- 61 of 132 --
+
+Bioceramic in Dentistry 62
+Expanded & Illustrated Edition
+About this chapter
+This chapter draws on the adhesion literature — in particular the account of
+enamel and dentine bonding by Breschi, Ferracane, Cadenaro, Mazzoni and
+Hilton in Summitt’s Fundamentals of Operative Dentistry (4th ed.) and the
+primary studies cited there. Key sources are given as author–year citations
+and listed under ‘Additional references’ at the end of the book.
+Almost every modern restoration is held in place, at least in part, by
+adhesion. Where earlier dentistry relied on mechanical retention —
+undercuts, pins, cements that merely filled a gap — adhesive dentistry
+bonds the restoration to the tooth, allowing more conservative
+preparations, better sealing and tooth-coloured materials. For the
+endodontically treated tooth in particular, a reliable adhesive seal over
+the access cavity is what protects the bioceramic root filling beneath it.
+This chapter explains how dental adhesives work and where they
+intersect with bioceramic materials.
+7.1 Why adhesion matters
+Adhesion serves three linked goals: retention of the restoration, a
+marginal seal against bacterial leakage, and reinforcement of the
+remaining tooth structure. A tooth restored with a well-bonded material
+behaves more like an intact tooth and is less prone to leakage and
+secondary caries. Because leakage is the common pathway to failure of
+both restorations and root-canal treatments, the quality of the adhesive
+seal is not a cosmetic detail but a determinant of long-term success.
+7.2 The two substrates: enamel and dentine
+Enamel and dentine could hardly be more different, and bonding to each
+is a distinct problem. Enamel is highly mineralised, relatively dry and
+uniform; etching it with phosphoric acid — the technique first
+demonstrated by Buonocore in 1955 (Buonocore, 1955) — dissolves a
+few micrometres of mineral to create a microporous, high-energy surface
+into which fluid resin flows and, once cured, locks as countless
+microscopic tags. Enamel bonding is therefore strong, durable and
+predictable.
+
+-- 62 of 132 --
+
+Bioceramic in Dentistry 63
+Expanded & Illustrated Edition
+Dentine is the harder problem. It is less mineralised, intrinsically wet
+(threaded by fluid-filled tubules connected to the pulp), and rich in
+collagen. Cutting dentine also leaves a smear layer — a micrometre-thick
+film of cut debris that plugs the tubule mouths. A dentine adhesive must
+manage this moisture, deal with the smear layer, and bond to a surface
+that is part mineral and part organic. The solution is not glue but
+micromechanical infiltration, embodied in the hybrid layer.
+7.3 The hybrid layer
+When dentine is conditioned, the surface mineral is removed to expose a
+scaffold of collagen fibrils; a fluid resin then infiltrates this scaffold and is
+polymerised in place. The resulting hybrid layer — resin entangled within
+demineralised collagen, continuous with resin tags that extend into the
+tubules — is the true basis of dentine bonding. First described by
+Nakabayashi and co-workers in 1982 (Nakabayashi et al., 1982), it
+explains why technique matters so much: the resin must infiltrate to the
+full depth that the acid demineralised, or an unprotected, weak zone of
+bare collagen is left behind.
+Figure 7.1 Dentine bonding is micromechanical: resin infiltrates a demineralised
+collagen mesh to form the hybrid layer and extends as tags into the tubules.
+
+-- 63 of 132 --
+
+Bioceramic in Dentistry 64
+Expanded & Illustrated Edition
+7.4 Etching strategies and adhesive families
+Adhesive systems differ chiefly in how they treat the smear layer and
+deliver the resin. Two philosophies dominate. Etch-and-rinse (total-etch)
+systems apply phosphoric acid first, which is then rinsed away together
+with the smear layer, before priming and bonding; they come in
+three-step (etch, prime, bond) and two-step (etch, then combined
+prime-and-bond) forms. Self-etch systems instead use acidic monomers
+that condition and prime simultaneously and incorporate the smear layer
+rather than removing it; they come in two-step and one-step (all-in-one)
+forms.
+Figure 7.2 The main adhesive families. Fewer steps make a system simpler to use but
+shift, rather than remove, its technique sensitivity.
+More recently, universal (multi-mode) adhesives allow the clinician to
+choose the etching mode — etch-and-rinse, self-etch, or selective
+enamel etching — with a single product. Many contain the functional
+monomer MDP (10-methacryloyloxydecyl dihydrogen phosphate), which
+forms a stable chemical bond to calcium in hydroxyapatite and also
+bonds to zirconia, widening the range of surfaces a single bottle can
+address. In general, etch-and-rinse gives the strongest enamel bond,
+while self-etch is less technique-sensitive on dentine and causes less
+post-operative sensitivity; selective enamel etching with a universal
+adhesive seeks the best of both.
+7.5 Bonding to ceramics, zirconia and metal
+
+-- 64 of 132 --
+
+Bioceramic in Dentistry 65
+Expanded & Illustrated Edition
+Adhesion is not limited to tooth tissue. Each restorative substrate needs
+its own surface strategy. Glass-based ceramics (feldspathic, leucite,
+lithium disilicate) are etched with hydrofluoric acid to roughen the glassy
+phase, then treated with a silane coupling agent that chemically links the
+ceramic to the resin cement. Zirconia, having no glassy phase, does not
+respond to hydrofluoric acid; it is instead roughened by airborne-particle
+abrasion and primed with an MDP-containing primer that bonds to the
+zirconium oxide. Metal substrates rely on abrasion and dedicated metal
+primers.
+Figure 7.3 A single objective — a durable resin bond — met by four different surface
+treatments, from acid etching to MDP priming.
+7.6 Durability: why bonds age
+The immediate bond strength of modern adhesives is high; the challenge
+is keeping it. Over months and years the hybrid layer is attacked on two
+fronts. Hydrolysis — water slowly breaking down resin and any exposed
+collagen — degrades the interface, a process visible as nanoleakage
+(tracer penetration into nanometre-scale gaps; Sano et al., 1995). At the
+same time, the tooth’s own enzymes, the matrix metalloproteinases and
+cysteine cathepsins, are activated by acidic conditioning and digest
+unprotected collagen within the hybrid layer (Pashley et al., 2004).
+Several strategies slow this ageing: functional monomers such as MDP
+that form more hydrolytically stable chemical bonds; enzyme inhibitors
+(chlorhexidine is the classic example; Hebling et al., 2005; Carrilho et al.,
+2007) applied to the conditioned dentine; careful moisture control and
+
+-- 65 of 132 --
+
+Bioceramic in Dentistry 66
+Expanded & Illustrated Edition
+thorough light-curing; and, not least, a sound restoration that seals the
+margins and keeps the interface away from oral fluids. The recurring
+theme — familiar from bioceramics — is that a good seal protects
+everything beneath it.
+Figure 7.4 The adhesive bond ages through hydrolysis, enzyme activity and
+nanoleakage; stable monomers, enzyme inhibitors and a good seal all help to preserve
+it.
+7.7 Adhesives and bioceramics
+The two worlds of this book — adhesives and bioceramics — meet at
+several clinically important points. First, the coronal seal of an
+endodontically treated tooth is usually an adhesive restoration; however
+good the bioceramic root filling, its long-term success depends on a
+well-bonded restoration above it that keeps bacteria out. Second,
+clinicians increasingly place a calcium-silicate liner or dentine substitute
+(such as Biodentine) beneath a bonded composite; here the adhesive
+must bond reliably to the set bioceramic surface.
+
+-- 66 of 132 --
+
+Bioceramic in Dentistry 67
+Expanded & Illustrated Edition
+Figure 7.5 In the restored endodontic tooth the adhesive core, post and crown together
+form the coronal seal that protects the bioceramic root filling from bacterial leakage.
+Clinical note — bonding over calcium-silicate materials
+• Calcium-silicate materials set and mature over time; bonding a
+composite too early, to an immature surface, can give a weaker bond.
+• Where the restorative plan allows, letting the material mature (or using
+a two-visit approach) tends to improve adhesion over Biodentine and MTA.
+Third, chemical interactions matter. Eugenol-containing materials (such
+as traditional zinc-oxide-eugenol cements) can inhibit the polymerisation
+of resin and weaken an adhesive bond, which is one reason
+calcium-silicate and resin-compatible materials are often preferred when
+an adhesive restoration will follow. Finally, the field is moving toward
+bioactive, ion-releasing restorative materials and adhesives that aim to
+combine the sealing of adhesion with the calcium- and
+phosphate-releasing, remineralising behaviour characteristic of
+bioceramics — a convergence of the two material families.
+
+-- 67 of 132 --
+
+Bioceramic in Dentistry 68
+Expanded & Illustrated Edition
+7.8 Resin cements and luting indirect
+restorations
+Indirect restorations — inlays, onlays, veneers, crowns and bridges — are
+attached to the tooth with a luting cement, and here adhesion is again
+central. Resin cements, used with an adhesive and the appropriate
+surface treatment of the restoration, give the strongest and best-sealing
+results and are essential for materials that rely on bonding for strength,
+such as thin veneers and glass-ceramics. They are broadly grouped as
+adhesive resin cements (used with a separate etch-and-rinse or self-etch
+adhesive) and self-adhesive resin cements, the latter simplifying the
+procedure by combining conditioning and luting in one material at some
+cost in bond strength. As with direct bonding, the choice balances bond
+strength, technique sensitivity and substrate: a bonded lithium-disilicate
+veneer demands a full adhesive protocol with silane, whereas a highly
+retentive zirconia crown may be luted more simply with an
+MDP-containing cement. Moisture control during luting is as decisive
+here as in direct restoration.
+7.9 Bonding to root dentine: posts and cores
+The endodontically treated tooth often lacks enough coronal structure to
+retain a restoration, and a post may be placed in the canal to retain a
+core that in turn supports a crown. Modern practice favours fibre posts
+bonded adhesively into the root, because their elasticity is closer to that
+of dentine than a rigid metal post and they distribute stress more
+favourably. Bonding into a root canal is, however, one of the most
+demanding adhesive situations: access is deep and narrow, moisture
+control is difficult, curing light barely reaches the apical portion, and
+residues of endodontic sealers — especially eugenol-containing ones —
+can impair the bond. This is a further reason resin-compatible bioceramic
+sealers are attractive when an adhesive post is anticipated. The unifying
+principle remains that the adhesive restoration and the bioceramic root
+filling protect the tooth only if the whole coronal seal holds.
+7.10 Isolation, moisture control and common
+failures
+
+-- 68 of 132 --
+
+Bioceramic in Dentistry 69
+Expanded & Illustrated Edition
+More adhesive failures come from technique than from the choice of
+product. The single most important factor is isolation: a dry, saliva-free
+and blood-free field — most reliably a rubber dam — is fundamental,
+because contamination of an etched or primed surface ruins the bond.
+Beyond isolation, the common pitfalls are recognisable and avoidable:
+1. Contamination of the bonding surface with saliva, blood or handpiece
+oil after conditioning.
+2. Over-drying etched dentine (collapsing the collagen mesh), or leaving
+it visibly wet.
+3. Incomplete evaporation of the adhesive solvent before curing.
+4. Inadequate light-curing — too brief, too far away, or with a weak
+curing light.
+5. Eugenol or other resin-inhibiting residues left on the bonding surface.
+6. Bonding to an immature calcium-silicate surface before it has set and
+matured.
+Because each of these is under the clinician’s control, meticulous
+technique — not merely material selection — is what turns a good
+adhesive into a durable, well-sealed restoration.
+7.11 Bioactive and self-adhesive restoratives: a
+convergence
+The sharp line once drawn between ‘adhesive’ and ‘bioactive’ materials
+is blurring. Glass-ionomer and resin-modified glass-ionomer cements
+already combine adhesion to tooth structure with fluoride release and
+are often described as bioactive; newer ion-releasing composites,
+giomers and calcium- or phosphate-releasing restoratives extend the
+idea, aiming to seal a cavity adhesively while also buffering acid,
+releasing mineral-forming ions and encouraging remineralisation at the
+margin.
+For the clinician this convergence is practical rather than abstract. A
+single material that bonds well and behaves bioactively could simplify
+the layered approach — bioceramic base, adhesive, composite — that is
+common today, and could improve the durability of the margin, the
+
+-- 69 of 132 --
+
+Bioceramic in Dentistry 70
+Expanded & Illustrated Edition
+commonest site of restoration failure. The evidence base for these newer
+materials is still maturing, and their bond strengths and long-term
+behaviour vary; but the direction of travel is clear, and it brings the two
+subjects of this book steadily closer together.
+Chapter summary
+• Adhesion provides retention, a marginal seal and reinforcement — and
+the seal protects the bioceramic work beneath it.
+• Enamel bonds predictably after acid etching; dentine relies on the
+resin-infiltrated hybrid layer.
+• Etch-and-rinse, self-etch and universal systems differ mainly in how they
+treat the smear layer.
+• Ceramics need silane, zirconia needs MDP; bonds age by hydrolysis and
+enzyme activity.
+• Over calcium-silicate materials, allow maturation for a better bond and
+avoid eugenol beforehand.
+
+-- 70 of 132 --
+
+CHAPTER EIGHT
+Reaction of Periodontal
+Tissues to Materials
+How the periodontium responds — and why it favours bioceramics
+
+-- 71 of 132 --
+
+Bioceramic in Dentistry 72
+Expanded & Illustrated Edition
+About this chapter
+This chapter draws together the tissue-response themes of the endodontic
+chapters. Its discussion of endodontic-sealer biocompatibility is supported by
+author–year citations to the primary literature reviewed by Dassieu (2023)
+and listed under ‘Additional references’; the broader histological trends are
+discussed, with their sources, in Chapters Two to Four.
+Many of the procedures in this book place a material in direct, lasting
+contact with the periodontium — the ligament, cementum, bone and
+gingiva that surround and support the tooth. A root-end filling faces the
+apical periodontium; a perforation repair faces the lateral or furcal
+periodontium; a resorption repair or a subgingival margin faces the
+cervical periodontium and gingiva. How these tissues react to the
+material is therefore central to the outcome, and it is one of the
+strongest arguments for bioceramics.
+8.1 The periodontium and where materials meet
+it
+The periodontium has four components: the gingiva at the margin, the
+periodontal ligament (PDL) suspending the root, the cementum covering
+the root surface, and the alveolar bone forming the socket. Dental
+materials contact these tissues wherever the root surface or the pulp
+space is breached — at a resected apex, a perforation, a resorptive
+cavity, or a restoration margin that lies at or below the gingival crest.
+
+-- 72 of 132 --
+
+Bioceramic in Dentistry 73
+Expanded & Illustrated Edition
+Figure 8.1 The supporting tissues of the tooth and the main points at which dental
+materials come into contact with them.
+8.2 The spectrum of tissue response
+A material in contact with periodontal tissue can provoke responses
+along a spectrum. At best it is biocompatible and even bioactive —
+tolerated without inflammation and actively encouraging repair, with
+new hard tissue forming on its surface. In the middle it is merely
+tolerated, separated from the tissue by a thin fibrous capsule. At worst it
+is irritant or cytotoxic, sustaining chronic inflammation, resorption and
+failure of healing. The clinical goal is to sit as far toward the bioactive
+end of this spectrum as possible, especially where the material will
+remain in contact with the tissue permanently.
+8.3 How traditional materials behave
+The materials that preceded bioceramics generally sit in the middle or
+unfavourable part of the spectrum. Amalgam, long used for root-end
+fillings, is tolerated but does not encourage regeneration and can cause
+discolouration and corrosion products in the tissue. Zinc-oxide-eugenol
+materials (including IRM) release eugenol, which is irritant and cytotoxic
+
+-- 73 of 132 --
+
+Bioceramic in Dentistry 74
+Expanded & Illustrated Edition
+in the concentrations found at a fresh interface. Super-EBA and
+reinforced cements improved handling and sealing but remain
+essentially non-regenerative. Glass-ionomer cements are better
+tolerated and release fluoride, but do not reliably induce new cementum
+or bone against the periodontium. Against this background the arrival of
+materials that actively favour periodontal healing was a significant
+advance.
+8.4 The favourable response to bioceramics
+Calcium-silicate bioceramics elicit a notably favourable periodontal
+response. Histological studies of materials such as MTA repeatedly show
+three encouraging features: the deposition of new cementum directly on
+the material surface (cementogenesis), the re-establishment of an
+organised periodontal ligament, and healing of the adjacent alveolar
+bone — often with a hard-tissue barrier forming across the interface and
+minimal inflammatory infiltrate. In effect the material is not merely
+tolerated but is incorporated into the repairing periodontium.
+Figure 8.2 Over a bioceramic root-end filling, tissues tend to heal constructively: new
+cementum bridges the surface, ligament fibres reattach and bone fills in.
+
+-- 74 of 132 --
+
+Bioceramic in Dentistry 75
+Expanded & Illustrated Edition
+This behaviour is what allows bioceramics to change the prognosis of
+teeth that would once have been lost — perforated teeth, teeth needing
+apical surgery, teeth with resorptive defects communicating with the
+periodontium. The material does not simply plug a defect; it provides a
+surface on which the periodontium can rebuild.
+8.5 Why: cellular and molecular mechanisms
+The favourable response follows directly from the chemistry emphasised
+throughout this book. As the material sets and matures it maintains a
+high pH, releases calcium ions, and forms a surface apatite layer. This
+microenvironment supports the attachment and differentiation of the key
+periodontal cells: cementoblasts that lay down cementum, PDL
+fibroblasts that organise ligament fibres, and osteoblasts that form bone.
+The released calcium and the alkaline conditions up-regulate
+mineralisation signalling — including transforming growth factor-β and
+bone morphogenetic proteins — and markers of hard-tissue formation
+such as alkaline phosphatase and osteopontin.
+Figure 8.3 High pH, calcium release and apatite formation create a surface on which
+cementoblasts, ligament fibroblasts and osteoblasts attach, differentiate and
+mineralise.
+8.6 Clinical settings
+
+-- 75 of 132 --
+
+Bioceramic in Dentistry 76
+Expanded & Illustrated Edition
+The same favourable interaction recurs across the clinical situations
+described in Chapter Four. In perforation repair, a bioceramic seal
+against the furcal or lateral periodontium limits inflammation and
+supports bone and cementum repair, where older materials invited
+attachment loss. In root-end filling, it promotes periradicular
+regeneration with new cementum and ligament over the resected
+surface. In invasive cervical resorption and other defects that
+communicate with the periodontium, its tolerance of moisture and its
+regenerative surface make it well suited to restoring the lost tissue. In
+regenerative endodontics, the coronal bioceramic plug sits against
+tissues from which new vital tissue is expected to grow.
+8.7 A comparative view
+Bringing these observations together, the materials used against the
+periodontium can be ranked qualitatively by the tissue response they
+tend to provoke. Calcium-silicate bioceramics and Biodentine sit at the
+favourable end, glass ionomer in the middle, and eugenol-based and
+corrosion-prone materials toward the less favourable end. The
+comparison below is a synthesis of histological trends rather than a
+quantitative scale, but the direction is consistent across studies.
+
+-- 76 of 132 --
+
+Bioceramic in Dentistry 77
+Expanded & Illustrated Edition
+Figure 8.4 A qualitative synthesis: periodontal tissues tend to respond more
+constructively to calcium-silicate bioceramics than to older root-end and repair
+materials.
+8.8 Soft-tissue and aesthetic considerations
+Two practical caveats deserve mention. First, some bioceramics can
+discolour the tooth and the overlying gingiva through their bismuth- or
+iron-oxide radiopacifiers; near the visible gingival margin, white or
+heavy-metal-free formulations are preferred. Second, where a material
+or restoration margin lies close to the gingiva, respect for the biologic
+width — the soft-tissue attachment coronal to the bone — remains
+essential; even the most biocompatible material will not compensate for
+a margin that violates the attachment and provokes chronic
+inflammation.
+
+-- 77 of 132 --
+
+Bioceramic in Dentistry 78
+Expanded & Illustrated Edition
+Figure 8.5 A supragingival margin is kind to the tissues; a deep subgingival margin that
+invades the biologic width provokes inflammation regardless of how biocompatible the
+material is.
+8.9 The peri-implant interface
+The reaction of tissues to materials is not confined to natural teeth. A
+dental implant sits in the same periodontal environment, and its success
+depends on two interfaces: the bone–implant interface, where
+osseointegration binds living bone directly to the surface (discussed in
+Chapter Five), and the soft-tissue interface, where the gingiva forms a
+seal around the abutment. Bioceramics contribute at both. Bioactive
+coatings such as hydroxyapatite encourage bone to grow onto the
+implant, while ceramic (zirconia) abutment surfaces are associated with
+a favourable soft-tissue response and low plaque affinity, helping to
+maintain the peri-implant seal. The same principle applies as around a
+tooth: a stable, well-adapted, biocompatible surface at the tissue margin
+protects the supporting structures, whereas roughness, contamination or
+a compromised seal invites inflammation — peri-implant mucositis and, if
+it progresses, peri-implantitis. Calcium-phosphate and bioactive-glass
+grafts further support the bone that must surround and stabilise the
+implant.
+
+-- 78 of 132 --
+
+Bioceramic in Dentistry 79
+Expanded & Illustrated Edition
+8.10 Endodontic sealers and the periodontal
+response
+Nowhere is the difference between material families clearer than in the
+behaviour of root-canal sealers, which are extruded or diffuse to the
+apical and lateral periodontium and remain there in intimate contact with
+the tissues. The biocompatibility of a sealer is therefore a determinant of
+periradicular healing, and it has been studied by comparing the
+long-established epoxy-resin sealers (typified by AH Plus) with the newer
+calcium-silicate-based sealers on two fronts: the inflammatory response
+they provoke and the osteogenic (bone- and cementum-forming)
+potential they support (Dassieu, 2023).
+On the first front, the literature consistently reports a lower inflammatory
+response to calcium-silicate sealers than to epoxy-resin sealers, whose
+freshly set surfaces tend to provoke a stronger initial reaction;
+cytotoxicity generally falls as calcium-silicate materials set and mature
+(Zhou et al., 2015; Saygili et al., 2017; Kapralos et al., 2022; Özdemir
+and Kopac, 2022). Subcutaneous-implantation and histological studies
+show the same direction of effect in vivo (Kohsar et al., 2022).
+On the second front, calcium-silicate sealers show a positive osteogenic
+potential — up-regulating mineralisation markers and encouraging
+hard-tissue formation — where epoxy-resin sealers tend to be neutral or
+negative. Comparative laboratory studies on periodontal-ligament and
+bone-forming cells report greater expression of osteogenic markers and
+mineralisation with calcium-silicate sealers (Giacomino et al., 2019; Lee
+et al., 2019; Alves Silva et al., 2020), consistent with systematic and
+narrative reviews of the class (Donnermeyer et al., 2019; Lim et al.,
+2020). The mechanism is the one described earlier in this chapter:
+calcium release, alkalinity and apatite formation create a surface that
+periodontal cells tolerate and build upon.
+
+-- 79 of 132 --
+
+Bioceramic in Dentistry 80
+Expanded & Illustrated Edition
+What this means clinically
+• Where a sealer may reach the periodontium, calcium-silicate materials
+tend to provoke less inflammation and better support hard-tissue healing
+than epoxy-resin sealers.
+• The evidence is largely laboratory and animal-based; long-term clinical
+comparisons are still limited.
+8.11 Evidence and gaps
+The evidence that bioceramics favour periodontal healing is strong at the
+histological and animal level and is supported by clinical healing of
+periradicular and periodontal defects. As elsewhere in this field, the
+principal gap is long-term, randomised clinical data comparing materials
+on periodontal outcomes over many years. The consistency of the
+biological signal, however, gives clinicians good reason to prefer
+bioceramics wherever a material will meet the periodontium.
+Chapter summary
+• Many endodontic procedures place a material permanently against the
+periodontium; the tissue response drives the outcome.
+• Traditional materials are tolerated at best; eugenol- and corrosion-based
+ones can be irritant.
+• Bioceramics favour cementogenesis, ligament reattachment and bone
+healing with little inflammation.
+• The mechanism is the familiar one: high pH, calcium release and apatite
+formation guiding periodontal cells.
+• Prefer white / heavy-metal-free materials near the gingival margin, and
+respect the biologic width.
+
+-- 80 of 132 --
+
+Bioceramic in Dentistry 81
+Expanded & Illustrated Edition
+Conclusion
+Introduced clinically in the 1990s as a root-end filling, mineral trioxide
+aggregate opened a field. Its uses have broadened continuously, and a
+growing family of bioceramic and hybrid materials has followed it into
+practice. These materials share a common calcium-silicate chemistry and
+a common signature — high alkalinity, calcium release and apatite
+formation — but differ in the mechanical properties that flow from their
+composition, above all compressive strength and setting time.
+What unites them is biocompatibility and outstanding physicochemical
+behaviour, and a demonstrated capacity to overcome limitations of
+earlier endodontic materials. In doing so they have widened the dentist's
+reach: teeth with open apices, candidates for pulp capping and
+pulpotomy, retrograde fillings after apicoectomy, and the repair of
+perforations and resorptions can now be treated more predictably than
+before.
+This expanded edition has set that endodontic story within a wider
+frame. Bioceramics belong to a family of dental materials that reaches
+from the all-ceramic crown to the bone graft, and their behaviour is best
+understood alongside the two disciplines that meet them most closely:
+adhesion, which provides the coronal seal that protects the bioceramic
+work beneath it and increasingly shares its bioactive ambitions; and the
+response of the periodontium, which is where the regenerative promise
+of bioceramics is most visibly realised, in new cementum, reattached
+ligament and healing bone. Seen together, these threads describe a shift
+in dentistry from materials that merely fill space to materials that seal,
+bond and help tissue to rebuild.
+The evidence gap
+• In-vitro and animal evidence for bioceramics is strong and consistent.
+• Long-term, randomised, double-blind clinical trials remain scarce for
+most indications.
+• Robust, well-designed studies with adequate follow-up are the priority
+for the field.
+
+-- 81 of 132 --
+
+Bioceramic in Dentistry 82
+Expanded & Illustrated Edition
+The promise of these in-vitro results now needs confirmation from
+long-term randomised, double-blind controlled trials over clinically
+meaningful periods. For most indications the high-quality clinical
+literature remains sparse. Closing that gap — with well-designed studies
+and adequate follow-up — is the task that will determine how far
+bioceramics reshape endodontic practice in the years ahead.
+
+-- 82 of 132 --
+
+Bioceramic in Dentistry 83
+Expanded & Illustrated Edition
+APPENDIX
+Glossary of key terms
+
+-- 83 of 132 --
+
+Bioceramic in Dentistry 84
+Expanded & Illustrated Edition
+Term Meaning
+Apexification
+Inducing a calcified barrier across an open apex, or
+continued apical development, in a necrotic immature
+tooth.
+Bioactive material A material that forms direct biochemical bonds with
+living tissue, typically via surface apatite formation.
+Bioinert material A material that coexists with tissue with minimal
+reaction, separated by a thin fibrous layer.
+Bioresorbable material A material gradually resorbed and replaced by host
+tissue during healing.
+Calcium silicate hydrate
+(C–S–H)
+The principal binding phase formed when
+calcium-silicate cements hydrate.
+Ettringite A calcium-aluminate-sulfate phase formed in the
+second (aluminate) hydration reaction of MTA.
+Hydroxyapatite The calcium-phosphate mineral of bone and tooth; its
+formation underlies bioceramic tissue induction.
+Invasive cervical
+resorption (ECR)
+External resorption starting below the epithelial
+attachment; graded I–IV (Heithersay).
+Push-out bond strength A laboratory measure of a material's resistance to
+displacement from the canal wall.
+Radiopacity Ability to attenuate X-rays, expressed as equivalent
+mm of aluminium (ISO 6876 minimum 3 mm).
+Regenerative
+endodontics (RET)
+Biologically based procedures aiming to replace the
+pulp–dentine complex and continue root
+development.
+Retrograde (root-end)
+filling
+A seal placed from the resected apex during
+endodontic microsurgery.
+Tertiary (reparative)
+dentine
+New dentine laid down by odontoblast-like cells in
+response to injury or a capping material.
+Bioactive glass
+A glass (e.g. 45S5) that forms a surface apatite layer
+bonding to tissue; used in grafts and remineralising
+agents.
+CAD/CAM Computer-aided design and manufacture; digital
+design and milling of ceramic restorations.
+Dentine substitute A material (e.g. Biodentine) used to replace missing
+dentine as a base or bulk restoration.
+
+-- 84 of 132 --
+
+Bioceramic in Dentistry 85
+Expanded & Illustrated Edition
+Term Meaning
+Glass-ceramic A ceramic containing crystalline particles in a glassy
+matrix (e.g. leucite, lithium disilicate).
+Guided bone
+regeneration (GBR)
+Use of a barrier membrane to let slow-growing bone
+fill a defect undisturbed by soft tissue.
+Osseointegration Direct structural and functional connection between
+living bone and an implant surface.
+Osteoconduction Provision of a passive scaffold along which host bone
+grows.
+Osteoinduction Active recruitment and differentiation of progenitor
+cells into bone-forming cells.
+Sintering Heat treatment that fuses ceramic particles into a
+dense solid (e.g. for zirconia).
+Transformation
+toughening
+Crack-arresting mechanism in zirconia where grains
+change phase at a crack tip.
+Y-TZP
+Yttria-stabilised tetragonal zirconia polycrystal — the
+strong oxide ceramic used for crowns, bridges and
+implants.
+Hybrid layer Zone of resin-infiltrated demineralised dentine
+collagen that is the basis of dentine bonding.
+Smear layer Micrometre-thick film of cut debris left on dentine
+after preparation.
+Etch-and-rinse Adhesive approach that removes the smear layer with
+phosphoric acid before priming and bonding.
+Self-etch
+Adhesive approach using acidic monomers that
+condition and prime while incorporating the smear
+layer.
+Universal adhesive A multi-mode adhesive usable in etch-and-rinse,
+self-etch or selective-etch mode; often contains MDP.
+MDP
+10-methacryloyloxydecyl dihydrogen phosphate — a
+monomer that bonds chemically to hydroxyapatite
+and zirconia.
+Silane Coupling agent that chemically links a resin cement to
+an etched glass-ceramic surface.
+Nanoleakage Nanometre-scale tracer penetration marking
+degradation within the adhesive interface.
+
+-- 85 of 132 --
+
+Bioceramic in Dentistry 86
+Expanded & Illustrated Edition
+Term Meaning
+Resin cement Adhesive luting material used to bond indirect
+restorations.
+Periodontium The supporting tissues of the tooth: gingiva,
+periodontal ligament, cementum and alveolar bone.
+Cementogenesis Formation of new cementum on a root or material
+surface.
+Biologic width The soft-tissue attachment (junctional epithelium and
+connective tissue) coronal to the alveolar bone.
+
+-- 86 of 132 --
+
+Bioceramic in Dentistry 87
+Expanded & Illustrated Edition
+APPENDIX
+Abbreviations and acronyms
+This list expands the abbreviations and acronyms used throughout the
+book.
+Abbreviation Term in full
+MTA Mineral trioxide aggregate
+WMTA / GMTA White / grey MTA
+ProRoot ProRoot MTA (Dentsply)
+ERRM EndoSequence Root Repair Material
+BC Bioceramic (e.g. BC Sealer)
+iRoot SP / BP / FS iRoot sealer / putty / fast-set repair
+CEM Calcium-enriched mixture cement
+C–S–H Calcium-silicate hydrate
+Ca(OH)₂ Calcium hydroxide
+HA Hydroxyapatite
+HCA Hydroxy-carbonate apatite
+TCP / β-TCP Tricalcium phosphate / beta form
+BCP Biphasic calcium phosphate
+DPC Direct pulp capping
+RET Regenerative endodontic treatment
+ICR / ECR Internal / external (invasive) cervical resorption
+GBR Guided bone regeneration
+Y-TZP Yttria-stabilised tetragonal zirconia polycrystal
+CAD/CAM Computer-aided design / manufacture
+GIC / RMGI Glass-ionomer / resin-modified GIC
+DPBS Dulbecco's phosphate-buffered solution
+ISO International Organization for Standardization
+
+-- 87 of 132 --
+
+Bioceramic in Dentistry 88
+Expanded & Illustrated Edition
+Abbreviation Term in full
+AAE American Association of Endodontists
+TGF-β Transforming growth factor beta
+MTT / XTT Colorimetric cell-viability assays
+RUNX2 Runt-related transcription factor 2
+MDP 10-methacryloyloxydecyl dihydrogen phosphate
+HEMA 2-hydroxyethyl methacrylate
+HF Hydrofluoric acid
+MMP Matrix metalloproteinase
+PDL Periodontal ligament
+ZOE Zinc-oxide-eugenol
+CEJ Cemento-enamel junction
+
+-- 88 of 132 --
+
+Bioceramic in Dentistry 89
+Expanded & Illustrated Edition
+APPENDIX
+Bioceramic materials at a glance
+
+-- 89 of 132 --
+
+Bioceramic in Dentistry 90
+Expanded & Illustrated Edition
+Material Type Main use(s) Set
+time
+Radiop
+acity
+(mm
+Al)
+Notable
+feature
+MTA
+(ProRoot) Cement
+Root-end fill,
+perforation,
+apexification, pulp
+cap
+~165
+min ~7.2
+Gold
+standard;
+long set;
+can
+discolour
+MTA
+Angelus Cement As MTA ~14
+min lower
+Faster set;
+finer
+particle
+size
+Biodentine Cement
+Dentine substitute,
+perforation, pulp
+cap
+~10–12
+min >3
+Fast set;
+good
+aesthetics;
+high Ca
+release
+ERRM /
+iRoot BP
+Cement
+(putty/p
+aste)
+Root repair,
+root-end fill ~4 h high
+Pre-mixed;
+handling
+ease
+iRoot FS
+Cement
+(fast-set
+)
+Root repair ~1 h high
+Improved
+handling,
+faster set
+BC Sealer /
+iRoot SP Sealer Canal obturation
+water-d
+epende
+nt
+3.83
+Pre-mixed;
+high pH;
+hard to
+remove
+MTA
+Fillapex
+Hybrid
+sealer Canal obturation — below
+AH Plus
+High flow;
+higher
+solubility
+MTA Plus Cement
+/ sealer
+Root-end fill,
+sealing tunable similar
+MTA
+Finer,
+lower-cost
+MTA; gel or
+liquid
+Hydroxyap
+atite
+Biocera
+mic
+Bone graft, implant
+coating — high
+Osteocond
+uctive;
+slow
+resorption
+
+-- 90 of 132 --
+
+Bioceramic in Dentistry 91
+Expanded & Illustrated Edition
+Material Type Main use(s) Set
+time
+Radiop
+acity
+(mm
+Al)
+Notable
+feature
+β-TCP /
+biphasic
+Biocera
+mic
+Bone graft (GBR,
+sinus) — mod.
+Resorbable
+; replaced
+by host
+bone
+Bioactive
+glass
+Biocera
+mic
+Graft,
+remineralisation — low
+Forms
+apatite; de
+sensitising
+Zirconia
+(Y-TZP)
+Structur
+al
+ceramic
+Crowns, bridges,
+implants
+(sintere
+d) —
+Very
+strong; tra
+nsformatio
+n
+toughening
+Values are representative figures drawn from the studies cited in earlier chapters and
+from established materials data; they are for orientation, not specification.
+
+-- 91 of 132 --
+
+Bioceramic in Dentistry 92
+Expanded & Illustrated Edition
+APPENDIX
+Material-selection quick guide
+This guide maps common clinical situations to the bioceramic materials
+most often chosen for them, with a key caution for each. It summarises
+the reasoning developed in Chapters Two to Four and is intended as an
+aide-mémoire, not a protocol; material choice must always follow
+individual case assessment and current guidelines.
+
+-- 92 of 132 --
+
+Bioceramic in Dentistry 93
+Expanded & Illustrated Edition
+Clinical situation Commonly chosen
+material(s) Key caution
+Root-end filling
+(apicoectomy)
+MTA; fast-set repair putty
+(ERRM / iRoot FS)
+Long MTA set in a moist
+surgical field — a fast-set
+material may help
+Furcal / lateral
+perforation MTA; Biodentine
+Avoid bismuth/iron-oxide
+products near the gingival
+margin (staining)
+Perforating internal
+resorption
+Bioceramic cement (MTA /
+Biodentine)
+Only needed once the root
+is perforated; seal to sound
+dentine
+Invasive cervical
+resorption (Class
+III–IV)
+Bioceramic cement;
+RRM/FS putty
+Biodentine is less
+radiopaque — harder to
+assess on radiographs
+Direct pulp cap /
+partial pulpotomy MTA; Biodentine Ensure haemostasis and a
+bacteria-tight coronal seal
+Apical plug in an open
+apex
+MTA; MTA Plus; BC
+RRM-FS putty
+Reinforce the thin root with
+a bonded coronal
+restoration
+Regenerative
+endodontics (coronal
+plug)
+White MTA Use white MTA to limit
+crown discolouration
+Canal obturation
+(sealer) BC Sealer / iRoot SP
+Dry the canal first; the set
+is water-dependent and
+hard to remove
+Deep liner / dentine
+substitute
+Biodentine; light-cured
+calcium-silicate liner
+Not a substitute for a
+definitive restoration
+Alveolar bone graft /
+ridge preservation
+Hydroxyapatite; β-TCP;
+biphasic; bioactive glass
+Match resorption rate to
+the site; consider a barrier
+membrane (GBR)
+
+-- 93 of 132 --
+
+Bioceramic in Dentistry 94
+Expanded & Illustrated Edition
+APPENDIX
+Adhesive systems at a glance
+A summary of the adhesive families discussed in Chapter Seven, with
+their steps and typical use. It is an orientation aid, not a substitute for
+the manufacturer's instructions, which must always be followed for a
+given product.
+System Steps Smear
+layer Notable points Typical use
+Etch-and-rins
+e, 3-step
+Etch · prime ·
+bond
+Remove
+d
+Strong, well-studied
+enamel & dentine
+bond
+Gold-standard
+bonding;
+demanding
+cases
+Etch-and-rins
+e, 2-step
+Etch · prime-
+and-bond
+Remove
+d
+Simpler; slightly
+more
+technique-sensitive
+Routine direct
+restorations
+Self-etch,
+2-step
+Self-etch
+primer ·
+bond
+Incorpor
+ated
+Less post-op
+sensitivity; milder
+etch of enamel
+Dentine-bond
+ed
+restorations
+Self-etch,
+1-step All-in-one Incorpor
+ated
+Simplest; generally
+lowest, less durable
+bond
+Quick or
+paediatric
+cases
+Universal
+(multi-mode)
+Selectable
+mode Either
+Contains MDP; bonds
+enamel, dentine,
+zirconia
+Versatile
+everyday use;
+selective-etch
+enamel
+Self-adhesive
+resin cement
+One step
+(lute)
+Incorpor
+ated
+Convenient luting;
+lower bond than
+adhesive cement
+Retentive
+crowns; posts
+Remember
+• Enamel bonds best after phosphoric-acid etching; glass-ceramics need
+silane; zirconia needs MDP.
+• Whatever the system, isolation and moisture control decide the result.
+
+-- 94 of 132 --
+
+Bioceramic in Dentistry 95
+Expanded & Illustrated Edition
+APPENDIX
+Periodontal response of common
+materials
+A qualitative synthesis of how periodontal tissues tend to respond to
+materials placed against them (Chapter Eight). Trends are drawn from
+histological and animal studies; they indicate direction, not a
+quantitative ranking.
+Material Tissue response Regeneration Key caution
+MTA (calcium
+silicate)
+Favourable, low
+inflammation
+Cementum, PDL &
+bone form on
+surface
+Long set; grey
+forms discolour
+Biodentine Favourable Supports hard-tissue
+repair
+Less
+radiopaque
+than MTA
+Bioceramic
+sealers / putties Favourable Biomineralisation at
+interface
+Confirm set;
+hard to remove
+Glass ionomer Moderate,
+tolerated
+Little periodontal
+regeneration
+Not for deep
+periradicular
+repair
+Super-EBA Moderate Non-regenerative Handling-depen
+dent seal
+Amalgam Tolerated None; can discolour
+tissue
+Corrosion
+products; being
+superseded
+ZOE / IRM Less favourable Irritant while fresh Eugenol
+cytotoxicity
+Remember
+• Prefer calcium-silicate bioceramics wherever a material will remain
+against the periodontium.
+• Near the gingival margin choose white / heavy-metal-free formulations
+and respect the biologic width.
+
+-- 95 of 132 --
+
+Bioceramic in Dentistry 96
+Expanded & Illustrated Edition
+APPENDIX
+Clinical protocols at a glance
+The following outlines distil the procedures discussed in Chapter Four
+into concise sequences. They are teaching summaries, not a substitute
+for full clinical training, current guidelines or individual case assessment.
+
+-- 96 of 132 --
+
+Bioceramic in Dentistry 97
+Expanded & Illustrated Edition
+Root-end (retrograde) filling
+1. Reflect a full-thickness flap and gain access to the periapical lesion
+under magnification.
+2. Resect the apical 3 mm of root and curette the lesion.
+3. Prepare a retrograde cavity along the canal axis with ultrasonic tips.
+4. Dry the cavity; place and condense a bioceramic cement (e.g. MTA)
+as the root-end fill.
+5. Confirm the seal, irrigate, reposition the flap and suture; review
+radiographically.
+Note
+MTA gives excellent sealing and periradicular regeneration; fast-set repair
+materials ease handling in a moist field.
+
+-- 97 of 132 --
+
+Bioceramic in Dentistry 98
+Expanded & Illustrated Edition
+Furcal / lateral perforation repair
+1. Achieve haemostasis and isolate the perforation; control moisture.
+2. If needed, place an internal matrix (e.g. resorbable collagen) to
+prevent extrusion.
+3. Place a bioceramic cement (MTA or Biodentine) against the defect
+with light condensation.
+4. Verify the seal; where slow-setting cement is used, protect with a
+moist pellet until set.
+5. Restore the remaining access and provide a definitive coronal seal.
+Note
+Prefer white or heavy-metal-free materials near the gingival margin to avoid
+discolouration.
+
+-- 98 of 132 --
+
+Bioceramic in Dentistry 99
+Expanded & Illustrated Edition
+Apical plug (apexification) in an open-apex tooth
+1. Disinfect the canal by gentle chemo-mechanical debridement;
+inter-visit calcium hydroxide if indicated.
+2. Dry the canal and place an apical plug of bioceramic cement
+(~4 mm), condensed to the apex.
+3. Confirm plug position and adaptation radiographically.
+4. Backfill the remaining canal and place a bonded coronal restoration
+to reinforce the root.
+Note
+MTA and comparable cements give earlier filling and better fracture
+resistance than long-term calcium hydroxide.
+
+-- 99 of 132 --
+
+Bioceramic in Dentistry 100
+Expanded & Illustrated Edition
+Regenerative endodontic procedure (immature necrotic
+tooth)
+1. Disinfect with copious irrigation and an intracanal medicament (e.g.
+triple antibiotic paste).
+2. At the second visit, induce apical bleeding to form a blood clot, or
+place platelet-rich plasma as a scaffold.
+3. Place a bioceramic cement (white MTA) as a coronal plug over the
+scaffold.
+4. Seal with a definitive restoration; monitor for continued root
+development.
+Note
+Aims to regenerate — not merely replace — the pulp-dentine complex;
+outcomes require long-term follow-up.
+
+-- 100 of 132 --
+
+Bioceramic in Dentistry 101
+Expanded & Illustrated Edition
+Direct pulp capping / partial pulpotomy
+1. Confirm a favourable diagnosis and achieve haemostasis at the
+exposure.
+2. For partial pulpotomy, remove superficial unhealthy pulp to sound
+tissue.
+3. Place a calcium-silicate material (MTA or Biodentine) directly over the
+pulp wound.
+4. Seal with a well-adapted restoration to prevent bacterial leakage;
+review vitality.
+Note
+Calcium-silicate materials outperform calcium hydroxide for dentine-bridge
+quality and clinical success.
+
+-- 101 of 132 --
+
+Bioceramic in Dentistry 102
+Expanded & Illustrated Edition
+Adhesive restoration over a calcium-silicate base
+1. Place and allow the calcium-silicate material (e.g. Biodentine) to set
+and begin to mature.
+2. Isolate the tooth (rubber dam) and clean the surface, avoiding
+eugenol-containing materials beforehand.
+3. Apply the chosen adhesive (a universal or etch-and-rinse system) per
+the manufacturer's instructions.
+4. Build up with composite in increments, curing each thoroughly.
+5. Check the margin and occlusion; a sound seal protects the
+bioceramic beneath.
+Note
+Where possible, delay definitive bonding until the calcium-silicate surface
+has matured to improve adhesion.
+
+-- 102 of 132 --
+
+Bioceramic in Dentistry 103
+Expanded & Illustrated Edition
+Bonded fibre post in an endodontically treated tooth
+1. Confirm an adequate apical seal and remove gutta-percha/sealer to
+the planned post depth, leaving 4–5 mm apically.
+2. Prefer a resin-compatible (non-eugenol) sealer where a bonded post
+is anticipated.
+3. Isolate, condition the root canal and apply the adhesive; control
+moisture carefully in the deep canal.
+4. Cement the fibre post with a (often dual-cure) resin cement and build
+the core.
+5. Restore with a crown that provides a ferrule and a sound coronal
+seal.
+Note
+Bonding into the canal is technique-sensitive; isolation and eugenol-free
+residues are decisive.
+
+-- 103 of 132 --
+
+Bioceramic in Dentistry 104
+Expanded & Illustrated Edition
+Perforation repair protecting the periodontium
+1. Locate the perforation and control haemorrhage and moisture.
+2. If the defect is large or faces the periodontium, place an internal
+matrix to prevent extrusion.
+3. Seal with a calcium-silicate bioceramic (MTA or Biodentine) adapted
+to sound margins.
+4. Prefer white / heavy-metal-free material near the gingival margin to
+avoid discolouration.
+5. Confirm the seal, then restore; respect the biologic width at the
+tissue margin.
+Note
+A biocompatible seal favours cementum and bone repair; it cannot
+compensate for a margin that invades the periodontal attachment.
+
+-- 104 of 132 --
+
+Bioceramic in Dentistry 105
+Expanded & Illustrated Edition
+References
+The following bibliography is reproduced from the original text by the
+authors (Prince Abdulrahman Advanced Dental Institute, Riyadh, 2025)
+and lists the sources for the author–year citations used in Chapters One
+to Four. The background Chapters Five and Six do not draw on these
+references.
+Al-Hezaimi, K., Naghshbandi, J., Oglesby, S., Simon, J. H. & Rotstein, I. (2005).
+Human saliva penetration of root canals obturated with two types of mineral
+trioxide aggregate cements, Journal of endodontics, 31(6), 453-456.
+Almeida, L. H. S., Moraes, R. R., Morgental, R. D. & Pappen, F. G. (2017). Are
+Premixed Calcium Silicate–based Endodontic Sealers Comparable to
+Conventional Materials? A Systematic Review of In Vitro Studies, Journal of
+endodontics.
+Altundasar, E. & Demir, B. (2009). Management of a perforating internal
+resorptive defect with mineral trioxide aggregate: a case report, Journal of
+endodontics, 35(10), 1441-1444.
+Amin, S. A. W., Seyam, R. S. & El-Samman, M. A. (2012). The effect of prior
+calcium hydroxide intracanal placement on the bond strength of two
+calcium silicate–based and an epoxy resin–based endodontic sealer, Journal
+of endodontics, 38(5), 696-699.
+Antunes, H., Gominho, L., Andrade‐Junior, C., Dessaune‐Neto, N., Alves, F.,
+Rôças, I. & Siqueira, J. (2016). Sealing ability of two root‐end filling materials
+in a bacterial nutrient leakage model, International endodontic journal,
+49(10), 960-965.
+Arens, D. E. & Torabinejad, M. (1996). Repair of furcal perforations with mineral
+trioxide aggregate: two case reports, Oral Surgery, Oral Medicine, Oral
+Pathology, Oral Radiology, and Endodontology, 82(1), 84-88.
+
+-- 105 of 132 --
+
+Bioceramic in Dentistry 106
+Expanded & Illustrated Edition
+Asgary, S. & Ahmadyar, M. (2013). Vital pulp therapy using calcium-enriched
+mixture: An evidence-based review, Journal of conservative dentistry: JCD,
+16(2), 92.
+Assmann, E., Scarparo, R. K., Böttcher, D. E. & Grecca, F. S. (2012). Dentin
+bond strength of two mineral trioxide aggregate–based and one epoxy
+resin–based sealers, Journal of endodontics, 38(2), 219-221.
+Atmeh, A., Chong, E., Richard, G., Festy, F. & Watson, T. (2012). Dentin-cement
+interfacial interaction: calcium silicates and polyalkenoates, Journal of
+Dental Research, 91(5), 454-459.
+Bakhtiar, H., Nekoofar, M. H., Aminishakib, P., Abedi, F., Moosavi, F. N.,
+Esnaashari, E., Azizi, A., Esmailian, S., Ellini, M. R. & Mesgarzadeh, V. (2017).
+Human Pulp Responses to Partial Pulpotomy Treatment with TheraCal as
+Compared with Biodentine and ProRoot MTA: A Clinical Trial, Journal of
+Endodontics.
+Bakland, L. K. & Andreasen, J. O. (2012). Will mineral trioxide aggregate replace
+calcium hydroxide in treating pulpal and periodontal healing complications
+subsequent to dental trauma? A review, Dental traumatology, 28(1), 25-32.
+Ballesio, I., Marchetti, E., Mummolo, S. & Marzo, G. (2006). Radiographic
+appearance of apical closure in apexification: follow-up after 7–13 years,
+European Journal of Paediatric Dentistry, 7(1), 29-34.
+Bandyopadhyay, A. & Bose, S. (2013). Characterization of biomaterials:
+Newnes.
+Barrieshi-Nusair, K. M. & Qudeimat, M. A. (2006). A prospective clinical study of
+mineral trioxide aggregate for partial pulpotomy in cariously exposed
+permanent teeth, Journal of Endodontics, 32(8), 731-735.
+
+-- 106 of 132 --
+
+Bioceramic in Dentistry 107
+Expanded & Illustrated Edition
+Bartols, A., Roussa, E., Walther, W. & Dörfer, C. E. (2017). First Evidence for
+Regeneration of the Periodontium to Mineral Trioxide Aggregate in Human
+Teeth, Journal of endodontics, 43(5), 715-722.
+Basturk, F. B., Nekoofar, M. H., Günday, M. & Dummer, P. M. (2013). The effect
+of various mixing and placement techniques on the compressive strength of
+mineral trioxide aggregate, Journal of endodontics, 39(1), 111-114.
+Beavers, R., Bergenholtz, G. & Cox, C. (1986). Periodontal wound healing
+following intentional root perforations in permaent teeth of Macaca mulatta,
+International endodontic journal, 19(1), 36-44.
+Bernardes, R. A., de Amorim Campelo, A., Junior, D. S. S., Pereira, L. O., Duarte,
+M. A. H., Moraes, I. G. & Bramante, C. M. (2010). Evaluation of the flow rate
+of 3 endodontic sealers: Sealer 26, AH Plus, and MTA Obtura, Oral Surgery,
+Oral Medicine, Oral Pathology, Oral Radiology, and Endodontology, 109(1),
+e47-e49.
+Best, S., Porter, A., Thian, E. & Huang, J. (2008). Bioceramics: past, present and
+for the future, Journal of the European Ceramic Society, 28(7), 1319-1327.
+Bin, C. V., Valera, M. C., Camargo, S. E., Rabelo, S. B., Silva, G. O., Balducci, I. &
+Camargo, C. H. R. (2012). Cytotoxicity and genotoxicity of root canal sealers
+based on mineral trioxide aggregate, Journal of endodontics, 38(4),
+495-500.
+Black, J. (1988). Ceramics and composites, Orthopedic Biomaterials in Research
+and Practice, Churchill Livingston, Inc., NY, 191-211.
+Bogen, G. & Chandler, N. P. (2008). Vital pulp therapy. Ingle’s endodontics, 6th
+edn, BC Decker INC, Lewiston, 1310-1329.
+Bogen, G. & Kuttler, S. (2009). Mineral trioxide aggregate obturation: a review
+and case series, Journal of endodontics, 35(6), 777-790.
+
+-- 107 of 132 --
+
+Bioceramic in Dentistry 108
+Expanded & Illustrated Edition
+Bonson, S., Jeansonne, B. & Lallier, T. (2004). Root-end filling materials alter
+fibroblast differentiation, Journal of dental research, 83(5), 408-413.
+Borges, R., Sousa‐Neto, M., Versiani, M., Rached‐Júnior, F., De‐Deus, G.,
+Miranda, C. & Pécora, J. (2012). Changes in the surface of four calcium
+silicate‐containing endodontic materials and an epoxy resin‐based sealer
+after a solubility test, International endodontic journal, 45(5), 419-428.
+Camilleri, J., Formosa, L. & Damidot, D. (2013). The setting characteristics of
+MTA Plus in different environmental conditions, International endodontic
+journal, 46(9), 831-840.
+Camilleri, J., Gandolfi, M., Siboni, F. & Prati, C. (2011). Dynamic sealing ability of
+MTA root canal sealer, International endodontic journal, 44(1), 9-20.
+Cavenago, B., Pereira, T., Duarte, M., Ordinola‐Zapata, R., Marciano, M.,
+Bramante, C. & Bernardineli, N. (2014). Influence of powder‐to‐water ratio
+on radiopacity, setting time, pH, calcium ion release and a micro‐CT
+volumetric solubility of white mineral trioxide aggregate, International
+endodontic journal, 47(2), 120-126.
+Chailertvanitkul, P., Paphangkorakit, J., Sooksantisakoonchai, N., Pumas, N.,
+Pairojamornyoot, W., Leela‐apiradee, N. & Abbott, P. (2014). Randomized
+control trial comparing calcium hydroxide and mineral trioxide aggregate
+for partial pulpotomies in cariously exposed pulps of permanent molars,
+International endodontic journal, 47(9), 835-842.
+Chen, I., Karabucak, B., Wang, C., Wang, H.-G., Koyama, E., Kohli, M. R., Nah,
+H.-D. & Kim, S. (2015). Healing after root-end microsurgery by using mineral
+trioxide aggregate and a new calcium silicate–based bioceramic material as
+root-end filling materials in dogs, Journal of endodontics, 41(3), 389-399.
+Chng, H. K., Islam, I., Yap, A. U. J., Tong, Y. W. & Koh, E. T. (2005). Properties of
+a new root-end filling material, Journal of Endodontics, 31(9), 665-668.
+
+-- 108 of 132 --
+
+Bioceramic in Dentistry 109
+Expanded & Illustrated Edition
+Ciasca, M., Aminoshariae, A., Jin, G., Montagnese, T. & Mickel, A. (2012). A
+comparison of the cytotoxicity and proinflammatory cytokine production of
+EndoSequence root repair material and ProRoot mineral trioxide aggregate
+in human osteoblast cell culture using reverse-transcriptase polymerase
+chain reaction, Journal of endodontics, 38(4), 486-489.
+Cvek, M. (1978). A clinical report on partial pulpotomy and capping with
+calcium hydroxide in permanent incisors with complicated crown fracture,
+Journal of endodontics, 4(8), 232-237.
+Cvek, M. (1992). Prognosis of luxated non‐vital maxillary incisors treated with
+calcium hydroxide and filled with gutta‐percha, A retrospective clinical
+study, Dental Traumatology, 8(2), 45-55.
+Daltoé, M. O., Paula-Silva, F. W. G., Faccioli, L. H., Gatón-Hernández, P. M., De
+Rossi, A. & Silva, L. A. B. (2016). Expression of mineralization markers
+during pulp response to biodentine and mineral trioxide aggregate, Journal
+of endodontics, 42(4), 596-603.
+Dammaschke, T., Stratmann, U., Wolff, P., Sagheri, D. & Schäfer, E. (2010).
+Direct pulp capping with mineral trioxide aggregate: an immunohistologic
+comparison with calcium hydroxide in rodents, Journal of endodontics,
+36(5), 814-819.
+de Miranda Candeiro, G. T., Correia, F. C., Duarte, M. A. H., Ribeiro-Siqueira, D.
+C. & Gavini, G. (2012). Evaluation of radiopacity, pH, release of calcium ions,
+and flow of a bioceramic root canal sealer, Journal of endodontics, 38(6),
+842-845.
+De Rossi, A., Silva, L. A. B., Gatón-Hernández, P., Sousa-Neto, M. D.,
+Nelson-Filho, P., Silva, R. A. B. & de Queiroz, A. M. (2014). Comparison of
+pulpal responses to pulpotomy and pulp capping with biodentine and
+mineral trioxide aggregate in dogs, Journal of endodontics, 40(9),
+1362-1369.
+
+-- 109 of 132 --
+
+Bioceramic in Dentistry 110
+Expanded & Illustrated Edition
+De‐Deus, G., Audi, C., Murad, C., Fidel, S. & Fidel, R. (2008). Similar expression
+of through‐and‐through fluid movement along orthograde apical plugs of
+MTA Bio™ and white Portland cement, International endodontic journal,
+41(12), 1047-1053.
+DeLong, C., He, J. & Woodmansey, K. F. (2015). The effect of obturation
+technique on the push-out bond strength of calcium silicate sealers, Journal
+of endodontics, 41(3), 385-388.
+Diogenes, A., Henry, M. A., Teixeira, F. B. & Hargreaves, K. M. (2013). An
+update on clinical regenerative endodontics, Endodontic Topics, 28(1), 2-23.
+Duarte, M. A. H., de Oliveira Demarchi, A. C. C., Yamashita, J. C., Kuga, M. C. &
+de Campos Fraga, S. (2003). pH and calcium ion release of 2 root-end filling
+materials, Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and
+Endodontology, 95(3), 345-347.
+Dubok, V. A. (2000). Bioceramics―Yesterday, Today, Tomorrow, Powder
+Metallurgy and Metal Ceramics, 39(7-8), 381-394.
+Eid, A. A., Gosier, J. L., Primus, C. M., Hammond, B. D., Susin, L. F., Pashley, D.
+H. & Tay, F. R. (2014). In vitro biocompatibility and oxidative stress profiles
+of different hydraulic calcium silicate cements, Journal of endodontics,
+40(2), 255-260.
+El Meligy, O. A. & Avery, D. R. (2006). Comparison of apexification with mineral
+trioxide aggregate and calcium hydroxide, Pediatric dentistry, 28(3),
+248-253.
+Endodontists, A. A. o. (2003). Glossary of endodontic terms, 7th edn. Chicago:
+American Association of Endodontists.
+Endodontists, A. A. o. (2015). American Association of Endodontists Glossary of
+Endodontic Terms, American Association of Endodontists, 9th ed. Chicago,
+
+-- 110 of 132 --
+
+Bioceramic in Dentistry 111
+Expanded & Illustrated Edition
+IL
+Endodontology, E. S. o. (2006). Quality guidelines for endodontic treatment:
+consensus report of the European Society of Endodontology, International
+Endodontic Journal, 39, 921-30.
+Ersahan, S. & Aydin, C. (2010). Dislocation resistance of iRoot SP, a calcium
+silicate–based sealer, from radicular dentine, Journal of endodontics, 36(12),
+2000-2002.
+Faria‐Júnior, N., Tanomaru‐Filho, M., Berbert, F. L. C. V. & Guerreiro‐ Tanomaru,
+J. (2013). Antibiofilm activity, pH and solubility of endodontic sealers,
+International endodontic journal, 46(8), 755-762.
+Farzaneh, M., Abitbol, S. & Friedman, S. (2004). Treatment outcome in
+endodontics: the Toronto study. Phases I and II: Orthograde retreatment,
+Journal of Endodontics, 30(9), 627-633.
+Felippe, M., Felippe, W., Marques, M. & Antoniazzi, J. (2005). The effect of the
+renewal of calcium hydroxide paste on the apexification and periapical
+healing of teeth with incomplete root formation, International endodontic
+journal, 38(7), 436-442.
+File, B. S. (2010). Active biosilicate technology, Septodont,
+Saint-Maurdes-Fossés Cedex: R&D Department.
+Ford, T. R. P., Torabinejad, M., McKendry, D. J., Hong, C.-U. & Kariyawasam, S. P.
+(1995). Use of mineral trioxide aggregate for repair of furcal perforations,
+Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and
+Endodontology, 79(6), 756-763.
+Frank, A. L. (1981). External-internal progressive resorption and its nonsurgical
+correction, Journal of endodontics, 7(10), 473-476.
+
+-- 111 of 132 --
+
+Bioceramic in Dentistry 112
+Expanded & Illustrated Edition
+Fransen, J. N., He, J., Glickman, G. N., Rios, A., Shulman, J. D. & Honeyman, A.
+(2008). Comparative assessment of ActiV GP/glass ionomer sealer,
+Resilon/Epiphany, and gutta-percha/AH plus obturation: a bacterial leakage
+study, Journal of endodontics, 34(6), 725-727.
+Fridland, M. & Rosado, R. (2005). MTA solubility: a long term study, Journal of
+endodontics, 31(5), 376-379.
+Fuss, Z. & Trope, M. (1996). Root perforations: classification and treatment
+choices based on prognostic factors, Dental Traumatology, 12(6), 255-264.
+Fuss, Z., Tsesis, I. & Lin, S. (2003). Root resorption–diagnosis, classification and
+treatment choices based on stimulation factors, Dental Traumatology,
+19(4), 175-182.
+Gabor, C., Tam, E., Shen, Y. & Haapasalo, M. (2012). Prevalence of internal
+inflammatory root resorption, Journal of endodontics, 38(1), 24-27.
+Gandolfi, M. G., Iacono, F., Agee, K., Siboni, F., Tay, F., Pashley, D. H. & Prati, C.
+(2009). Setting time and expansion in different soaking media of
+experimental accelerated calcium-silicate cements and ProRoot MTA, Oral
+Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and Endodontology,
+108(6), e39-e45.
+Gandolfi, M. G., Siboni, F., Primus, C. M. & Prati, C. (2014). Ion release, porosity,
+solubility, and bioactivity of MTA Plus tricalcium silicate, Journal of
+endodontics, 40(10), 1632-1637.
+Geesink, R. G. & Manley, M. T. (1993). Hydroxylapatite coatings in orthopaedic
+surgery : Raven Press (ID).
+Gomes-Filho, J. E., Moreira, J. V., Watanabe, S., Lodi, C. S., Cintra, L. T. A., Dezan
+Junior, E., Bernabé, P. F. E., Nery, M. J. & Otoboni Filho, J. A. (2012).
+Sealability of MTA and calcium hydroxidecontaining sealers, Journal of
+
+-- 112 of 132 --
+
+Bioceramic in Dentistry 113
+Expanded & Illustrated Edition
+Applied Oral Science, 20(3), 347-351.
+Gomes-Filho, J. E., Watanabe, S., Bernabé, P. F. E. & de Moraes Costa, M. T.
+(2009). A mineral trioxide aggregate sealer stimulated mineralization,
+Journal of Endodontics, 35(2), 256-260.
+Grech, L., Mallia, B. & Camilleri, J. (2013a). Characterization of set Intermediate
+Restorative Material, Biodentine, Bioaggregate and a prototype calcium
+silicate cement for use as root‐end filling materials, International endodontic
+journal, 46(7), 632-641.
+Grech, L., Mallia, B. & Camilleri, J. (2013b). Investigation of the physical
+properties of tricalcium silicate cement-based root-end filling materials,
+Dental Materials, 29(2), e20-e28.
+Grossman, L. I. (1978). Endodontic practice, Philadelphia: Lea & Febiger.
+Guneser, M. B., Akbulut, M. B. & Eldeniz, A. U. (2013). Effect of various
+endodontic irrigants on the push-out bond strength of biodentine and
+conventional root perforation repair materials, Journal of endodontics, 39(3),
+380-384.
+Güven, E., Taşlı, P., Yalvac, M., Sofiev, N., Kayahan, M. & Sahin, F. (2013). In
+vitro comparison of induction capacity and biomineralization ability of
+mineral trioxide aggregate and a bioceramic root canal sealer, International
+endodontic journal, 46(12), 1173-1182.
+Haapasalo, M., Parhar, M., Huang, X., Wei, X., Lin, J. & Shen, Y. (2015). Clinical
+use of bioceramic materials, Endodontic Topics, 32(1), 97-117.
+Hachmeister, D. R., Schindler, W. G., Walker, W. A. & Thomas, D. D. (2002). The
+sealing ability and retention characteristics of mineral trioxide aggregate in
+a model of apexification, Journal of Endodontics, 28(5), 386-390.
+
+-- 113 of 132 --
+
+Bioceramic in Dentistry 114
+Expanded & Illustrated Edition
+Han, L. & Okiji, T. (2013). Bioactivity evaluation of three calcium silicate‐ based
+endodontic materials, International endodontic journal, 46(9), 808-814.
+Hargreaves, K. M., Diogenes, A. & Teixeira, F. B. (2013). Treatment options:
+biological basis of regenerative endodontic procedures, Journal of
+endodontics, 39(3), S30-S43.
+Heithersay, G. S. (1999). Clinical, radiologic, and histopathologic features of
+invasive cervical resorption, Quintessence International, 30(1).
+Heithersay, G. S. (2004). Invasive cervical resorption, Endodontic Topics, 7(1),
+73-92.
+Hench, L. L. (1991). Bioceramics: from concept to clinic, Journal of the american
+ceramic society, 74(7), 1487-1510.
+Hench, L. L., Splinter, R. J., Allen, W. & Greenlee, T. (1971). Bonding
+mechanisms at the interface of ceramic prosthetic materials, Journal of
+Biomedical Materials Research, 5(6), 117-141.
+Hess, D., Solomon, E., Spears, R. & He, J. (2011). Retreatability of a bioceramic
+root canal sealing material, Journal of endodontics, 37(11), 1547-1549.
+Hilton, T., Ferracane, J., Mancl, L. & Dentistry, N. P.-b. R. C. i. E.-b. (2013).
+Comparison of CaOH with MTA for direct pulp capping: a PBRN randomized
+clinical trial, Journal of dental research, 92(7_suppl), S16-S22.
+Holland, R., de SOUZA, V., Nery, M. J., Faraco Júnior, I. M., Bernabé, P., Otoboni
+Filho, J. A. & Dezan Júnior, E. (2001). Reaction of rat connective tissue to
+implanted dentin tube filled with mineral trioxide aggregate, Portland
+cement or calcium hydroxide, Brazalian Dental Journal, 12(1), 3-8.
+Holland, R., Ferreira, L. B., de Souza, V., Otoboni Filho, J. A., Murata, S. S. &
+Dezan, E. (2007). Reaction of the lateral periodontium of dogs’ teeth to
+
+-- 114 of 132 --
+
+Bioceramic in Dentistry 115
+Expanded & Illustrated Edition
+contaminated and noncontaminated perforations filled with mineral trioxide
+aggregate, Journal of endodontics, 33(10), 1192-1197.
+Holt, D. M., Watts, J. D., Beeson, T. J., Kirkpatrick, T. C. & Rutledge, R. E. (2007).
+The anti-microbial effect against enterococcus faecalis and the compressive
+strength of two types of mineral trioxide aggregate mixed with sterile water
+or 2% chlorhexidine liquid, Journal of Endodontics, 33(7), 844-847.
+Hulbert, S., Bokros, J., Hench, L., Wilson, J. & Heimke, G. (1987). Ceramics in
+clinical applications, past, present and future, Elsevier, Amsterdam,
+pp189–213.
+Islam, I., Chng, H. K. & Yap, A. U. J. (2006). Comparison of the physical and
+mechanical properties of MTA and Portland cement, Journal of Endodontics,
+32(3), 193-197.
+Jeeruphan, T., Jantarat, J., Yanpiset, K., Suwannapan, L., Khewsawai, P. &
+Hargreaves, K. M. (2012). Mahidol study 1: comparison of radiographic and
+survival outcomes of immature teeth treated with either regenerative
+endodontic or apexification methods: a retrospective study, Journal of
+endodontics, 38(10), 1330-1336.
+Jefferies, S. R. (2014). Bioactive and biomimetic restorative materials: a
+comprehensive review, Part I. Journal of esthetic and restorative dentistry,
+26(1), 14-26.
+Jiang, Y., Zheng, Q., Zhou, X., Gao, Y. & Huang, D. (2014). A comparative study
+on root canal repair materials: a cytocompatibility assessment in L929 and
+MG63 cells, The Scientific World Journal, 2014.
+Jung, J. Y., Woo, S. M., Lee, B. N., Koh, J. T., Nör, J. & Hwang, Y. C. (2015). Effect
+of Biodentine and Bioaggregate on odontoblastic differentiation via
+mitogen‐activated protein kinase pathway in human dental pulp cells,
+International endodontic journal, 48(2), 177-184.
+
+-- 115 of 132 --
+
+Bioceramic in Dentistry 116
+Expanded & Illustrated Edition
+Kang, S.-H., Shin, Y.-S., Lee, H.-S., Kim, S.-O., Shin, Y., Jung, I.-Y. & Song, J. S.
+(2015). Color changes of teeth after treatment with various mineral trioxide
+aggregate–based materials: an ex vivo study, Journal of endodontics, 41(5),
+737-741.
+Karp, J., Bryk, J., Menke, E. & McTigue, D. (2006). The complete endodontic
+obturation of an avulsed immature permanent incisor with mineral trioxide
+aggregate: a case report, Pediatric dentistry, 28(3), 273-278.
+Katge, F. A. & Patil, D. P. (2017). Comparative Analysis of 2 Calcium
+Silicate–based Cements (Biodentine and Mineral Trioxide Aggregate) as
+Direct Pulp-capping Agent in Young Permanent Molars: A Split Mouth Study,
+Journal of endodontics, 43(4), 507-513.
+Kayahan, M., Nekoofar, M. H., Kazandağ, M., Canpolat, C., Malkondu, O.,
+Kaptan, F. & Dummer, P. M. H. (2009). Effect of acid‐etching procedure on
+selected physical properties of mineral trioxide aggregate, International
+endodontic journal, 42(11), 1004-1014.
+Keskin, C., Demiryurek, E. O. & Ozyurek, T. (2015). Color Stabilities of Calcium
+Silicate–based Materials in Contact with Different Irrigation Solutions,
+Journal of endodontics, 41(3), 409-411.
+Kim, S. & Kratchman, S. (2006). Modern endodontic surgery concepts and
+practice: a review, Journal of endodontics, 32(7), 601-623.
+Koch, K. & Brave, D. (2012). Bioceramics, part I: the clinician’s viewpoint,
+Dentistry today, 31(1), 130.
+Koh, E., Torabinejad, M., Pitt Ford, T., Brady, K. & McDonald, F. (1997). Mineral
+trioxide aggregate stimulates a biological response in human osteoblasts,
+Journal of Biomedical Materials Research Part A, 37(3), 432-439.
+
+-- 116 of 132 --
+
+Bioceramic in Dentistry 117
+Expanded & Illustrated Edition
+Komabayashi, T. & Spångberg, L. S. (2008). Comparative analysis of the
+particle size and shape of commercially available mineral trioxide
+aggregates and Portland cement: a study with a flow particle image
+analyzer, Journal of Endodontics, 34(1), 94-98.
+Kratchman, S. I. (2004). Perforation repair and one-step apexification
+procedures, Dental Clinics of North America, 48(1), 291-307.
+Kundzina, R., Stangvaltaite, L., Eriksen, H. & Kerosuo, E. (2016). Capping
+carious exposures in adults: a randomized controlled trial investigating
+mineral trioxide aggregate versus calcium hydroxide, International
+endodontic journal.
+Laurent, P., Camps, J. & About, I. (2012). BiodentineTM induces TGF‐ β1 release
+from human pulp cells and early dental pulp mineralization, International
+endodontic journal, 45(5), 439-448.
+Leal, F., De‐Deus, G., Brandão, C., Luna, A., Fidel, S. & Souza, E. (2011).
+Comparison of the root‐end seal provided by bioceramic repair cements and
+White MTA, International endodontic journal, 44(7), 662- 668.
+Lemon, R. R. (1992). Nonsurgical repair of perforation defects. Internal matrix
+concept, Dental Clinics of North America, 36(2), 439-457.
+Linsuwanont, P., Wimonsutthikul, K., Pothimoke, U. & Santiwong, B. (2017).
+Treatment Outcomes of Mineral Trioxide Aggregate Pulpotomy in Vital
+Permanent Teeth with Carious Pulp Exposure: The Retrospective Study,
+Journal of endodontics, 43(2), 225-230.
+Loushine, B. A., Bryan, T. E., Looney, S. W., Gillen, B. M., Loushine, R. J., Weller,
+R. N., Pashley, D. H. & Tay, F. R. (2011). Setting properties and cytotoxicity
+evaluation of a premixed bioceramic root canal sealer, Journal of
+endodontics, 37(5), 673-677.
+
+-- 117 of 132 --
+
+Bioceramic in Dentistry 118
+Expanded & Illustrated Edition
+Lovato, K. F. & Sedgley, C. M. (2011). Antibacterial activity of endosequence
+root repair material and proroot MTA against clinical isolates of
+Enterococcus faecalis, Journal of endodontics, 37(11), 1542-1546.
+Luo, Z., Li, D., Kohli, M. R., Yu, Q., Kim, S. & He, W.-x. (2014). Effect of
+Biodentine™ on the proliferation, migration and adhesion of human dental
+pulp stem cells, Journal of dentistry, 42(4), 490-497.
+Ma, J., Al-Ashaw, A. J., Shen, Y., Gao, Y., Yang, Y., Zhang, C. & Haapasalo, M.
+(2012). Efficacy of ProTaper Universal Rotary Retreatment System for
+Gutta-percha Removal from Oval Root Canals: A Micro–Computed
+Tomography Study, Journal of endodontics, 38(11), 1516-1520.
+Ma, J., Shen, Y., Stojicic, S. & Haapasalo, M. (2011). Biocompatibility of two
+novel root repair materials, Journal of endodontics, 37(6), 793-798.
+Madison, S. & Wilcox, L. R. (1988). An evaluation of coronal microleakage in
+endodontically treated teeth, Part III. In vivo study. Journal of Endodontics,
+14(9), 455-458.
+Maeda, H., Nakano, T., Tomokiyo, A., Fujii, S., Wada, N., Monnouchi, S., Hori, K.
+& Akamine, A. (2010). Mineral trioxide aggregate induces bone
+morphogenetic protein-2 expression and calcification in human periodontal
+ligament cells, Journal of endodontics, 36(4), 647-652.
+Main, C., Mirzayan, N., Shabahang, S. & Torabinejad, M. (2004). Repair of root
+perforations using mineral trioxide aggregate: a long-term study, Journal of
+Endodontics, 30(2), 80-83.
+Mente, J., Leo, M., Panagidis, D., Ohle, M., Schneider, S., Bermejo, J. L. &
+Pfefferle, T. (2013). Treatment outcome of mineral trioxide aggregate in
+open apex teeth, Journal of endodontics, 39(1), 20-26.
+
+-- 118 of 132 --
+
+Bioceramic in Dentistry 119
+Expanded & Illustrated Edition
+Mukhtar-Fayyad, D. (2011). Cytocompatibility of new bioceramic-based
+materials on human fibroblast cells (MRC-5), Oral Surgery, Oral Medicine,
+Oral Pathology, Oral Radiology, and Endodontology, 112(6), e137-e142.
+Murray, P. E., García Godoy, C. & García Godoy, F. (2007). How is the
+biocompatibilty of dental biomaterials evaluated?, Medicina Oral, Patología
+Oral y Cirugía Bucal (Internet), 12(3), 258-266.
+Namazikhah, M., Nekoofar, M. H., Sheykhrezae, M., Salariyeh, S., Hayes, S. J.,
+Bryant, S. T., Mohammadi, M. & Dummer, P. M. H. (2008). The effect of pH
+on surface hardness and microstructure of mineral trioxide aggregate,
+International endodontic journal, 41(2), 108-116.
+Nekoofar, M., Adusei, G., Sheykhrezae, M., Hayes, S., Bryant, S. & Dummer, P.
+(2007). The effect of condensation pressure on selected physical properties
+of mineral trioxide aggregate, International Endodontic Journal, 40(6),
+453-461.
+Neuvald, L. & Consolaro, A. (2000). Cementoenamel junction: microscopic
+analysis and external cervical resorption, Journal of endodontics, 26(9),
+503-508.
+Okabe, T., Sakamoto, M., Takeuchi, H. & Matsushima, K. (2006). Effects of pH
+on mineralization ability of human dental pulp cells, Journal of endodontics,
+32(3), 198-201.
+Okiji, T. & Yoshiba, K. (2009). Reparative dentinogenesis induced by mineral
+trioxide aggregate: a review from the biological and physicochemical points
+of view, International Journal of Dentistry, 2009.
+Osorio, R. M., Hefti, A., Vertucci, F. J. & Shawley, A. L. (1998). Cytotoxicity of
+endodontic materials, Journal of Endodontics, 24(2), 91-96.
+
+-- 119 of 132 --
+
+Bioceramic in Dentistry 120
+Expanded & Illustrated Edition
+Parirokh, M. & Torabinejad, M. (2010a). Mineral trioxide aggregate: a
+comprehensive literature review—part I: chemical, physical, and
+antibacterial properties, Journal of endodontics, 36(1), 16-27.
+Parirokh, M. & Torabinejad, M. (2010b). Mineral trioxide aggregate: a
+comprehensive literature review—part III: clinical applications, drawbacks,
+and mechanism of action, Journal of endodontics, 36(3), 400-413.
+Park, J.-B. & Lee, J.-H. (2008). Use of mineral trioxide aggregrate in the
+non-surgical repair of perforating invasive cervical resorption, Med Oral
+Patol Oral Cir Bucal, 13(10), E678-80.
+Patel, S., Kanagasingam, S. & Ford, T. P. (2009). External cervical resorption: a
+review, Journal of endodontics, 35(5), 616-625.
+Pérard, M., Le Clerc, J., Meary, F., Pérez, F., Tricot-Doleux, S. & Pellen-Mussi, P.
+(2013). Spheroid model study comparing the biocompatibility of Biodentine
+and MTA, Journal of Materials Science: Materials in Medicine, 24(6),
+1527-1534.
+Poggio, C., Lombardini, M., Alessandro, C. & Simonetta, R. (2007). Solubility of
+Root-end–Filling Materials: A Comparative Study, Journal of Endodontics,
+33(9), 1094-1097.
+Pradhan, D., Chawla, H., Gauba, K. & Goyal, A. (2006). Comparative evaluation
+of endodontic management of teeth with unformed apices with mineral
+trioxide aggregate and calcium hydroxide, Journal of dentistry for children,
+73(2), 79-85.
+Ree, M. H. & Schwartz, R. S. (2017). Long-term Success of Nonvital, Immature
+Permanent Incisors Treated With a Mineral Trioxide Aggregate Plug and
+Adhesive Restorations: A Case Series from a Private Endodontic Practice,
+Journal of Endodontics.
+
+-- 120 of 132 --
+
+Bioceramic in Dentistry 121
+Expanded & Illustrated Edition
+Regan, J., Gutmann, J. & Witherspoon, D. (2002). Comparison of Diaket and MTA
+when used as root-end filling materials to support regeneration of the
+periradicular tissues, International endodontic journal, 35(10), 840-847.
+Reyes-Carmona, J. F., Felippe, M. S. & Felippe, W. T. (2009). Biomineralization
+ability and interaction of mineral trioxide aggregate and white portland
+cement with dentin in a phosphate-containing fluid, Journal of Endodontics,
+35(5), 731-736.
+Reyes-Carmona, J. F., Felippe, M. S. & Felippe, W. T. (2010). The
+biomineralization ability of mineral trioxide aggregate and Portland cement
+on dentin enhances the push-out strength, Journal of endodontics, 36(2),
+286-291.
+Ribeiro, D., Matsumoto, M., Duarte, M., Marques, M. E. A. & Salvadori, D. M. F.
+(2006a). Ex vivo biocompatibility tests of regular and white forms of mineral
+trioxide aggregate, International endodontic journal, 39(1), 26-30.
+Ribeiro, D. A., Sugui, M. M., Matsumoto, M. A., Duarte, M. A. H., Marques, M. E.
+A. & Salvadori, D. M. F. (2006b). Genotoxicity and cytotoxicity of mineral
+trioxide aggregate and regular and white Portland cements on Chinese
+hamster ovary (CHO) cells in vitro, Oral Surgery, Oral Medicine, Oral
+Pathology, Oral Radiology, and Endodontology, 101(2), 258-261.
+Richardson, I. (2008). The calcium silicate hydrates, Cement and concrete
+research, 38(2), 137-158.
+Saghiri, M. A., Gutmann, J. L., Orangi, J., Asatourian, A. & Sheibani, N. (2015).
+Radiopacifier particle size impacts the physical properties of tricalcium
+silicate–based cements, Journal of endodontics, 41(2), 225-230.
+Saghiri, M. A., Shokouhinejad, N., Lotfi, M., Aminsobhani, M. & Saghiri, A. M.
+(2010). Push-out bond strength of mineral trioxide aggregate in the
+presence of alkaline pH, Journal of endodontics, 36(11), 1856-1859.
+
+-- 121 of 132 --
+
+Bioceramic in Dentistry 122
+Expanded & Illustrated Edition
+Sagsen, B., Ustün, Y., Demirbuga, S. & Pala, K. (2011). Push‐out bond strength
+of two new calcium silicate‐based endodontic sealers to root canal dentine,
+International endodontic journal, 44(12), 1088-1091.
+Salles, L. P., Gomes-Cornélio, A. L., Guimaraes, F. C., Herrera, B. S., Bao, S. N.,
+Rossa-Junior, C., Guerreiro-Tanomaru, J. M. & Tanomaru-Filho, M. (2012).
+Mineral trioxide aggregate–based endodontic sealer stimulates
+hydroxyapatite nucleation in human osteoblast-like cell culture, Journal of
+Endodontics, 38(7), 971-976.
+San Chong, B., Wilson, N. H. & Whitworth, J. M. (2004). Managing endodontic
+failure in practice (Vol. 23): Quintessence Publishing Company.
+Santos, A. D., Araújo, E. B., Yukimitu, K., Barbosa, J. C. & Moraes, J. C. (2008).
+Setting time and thermal expansion of two endodontic cements, Oral
+Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and Endodontology,
+106(3), e77-e79.
+Setbon, H., Devaux, J., Iserentant, A., Leloup, G. & Leprince, J. (2014). Influence
+of composition on setting kinetics of new injectable and/or fast setting
+tricalcium silicate cements, Dental materials, 30(12), 1291-1303.
+Shah, P. M., San Chong, B., Sidhu, S. K. & Ford, T. R. P. (1996). Radiopacity of
+potential root-end filling materials, Oral Surgery, Oral Medicine, Oral
+Pathology, Oral Radiology, and Endodontology, 81(4), 476-479.
+Shen, Y., Peng, B., Yang, Y., Ma, J. & Haapasalo, M. (2015). What do different
+tests tell about the mechanical and biological properties of bioceramic
+materials?, Endodontic Topics, 32(1), 47-85.
+Shi, S., Bao, Z., Liu, Y., Zhang, D., Chen, X., Jiang, L. & Zhong, M. (2016).
+Comparison of in vivo dental pulp responses to capping with iRoot BP Plus
+and mineral trioxide aggregate, International endodontic journal, 49(2),
+154-160.
+
+-- 122 of 132 --
+
+Bioceramic in Dentistry 123
+Expanded & Illustrated Edition
+Shie, M.-Y., Huang, T.-H., Kao, C.-T., Huang, C.-H. & Ding, S.-J. (2009). The effect
+of a physiologic solution pH on properties of white mineral trioxide
+aggregate, Journal of endodontics, 35(1), 98-101.
+Shokouhinejad, N., Nekoofar, M. H., Iravani, A., Kharrazifard, M. J. & Dummer, P.
+M. (2010). Effect of acidic environment on the push-out bond strength of
+mineral trioxide aggregate, Journal of Endodontics, 36(5), 871-874.
+Silujjai, J. & Linsuwanont, P. (2017). Treatment outcomes of apexification or
+revascularization in nonvital immature permanent teeth: a retrospective
+study, Journal of endodontics, 43(2), 238-245.
+Silva, E. J., Rosa, T. P., Herrera, D. R., Jacinto, R. C., Gomes, B. P. & Zaia, A. A.
+(2013). Evaluation of cytotoxicity and physicochemical properties of calcium
+silicate-based endodontic sealer MTA Fillapex, Journal of Endodontics, 39(2),
+274-277.
+Silva, L. A. B., Pieroni, K. A. M. G., Nelson-Filho, P., Silva, R. A. B.,
+Hernandéz-Gatón, P., Lucisano, M. P., Paula-Silva, F. W. G. & de Queiroz, A.
+M. (2017). Furcation Perforation: Periradicular Tissue Response to
+Biodentine as a Repair Material by Histopathologic and Indirect
+Immunofluorescence Analyses, Journal of Endodontics.
+Sisli, S. N. & Ozbas, H. (2017). Comparative Micro–computed Tomographic
+Evaluation of the Sealing Quality of ProRoot MTA and MTA Angelus Apical
+Plugs Placed with Various Techniques, Journal of endodontics, 43(1),
+147-151.
+Sönmez, I., Oba, A., Sönmez, D. & Almaz, M. (2012). In vitro evaluation of apical
+microleakage of a new MTA-based sealer, European Archives of Paediatric
+Dentistry, 13(5), 252-255.
+Souza, N., Justo, G., Oliveira, C., Haun, M. & Bincoletto, C. (2006). Cytotoxicity
+of materials used in perforation repair tested using the V79 fibroblast cell
+
+-- 123 of 132 --
+
+Bioceramic in Dentistry 124
+Expanded & Illustrated Edition
+line and the granulocyte‐macrophage progenitor cells, International
+endodontic journal, 39(1), 40-47.
+Stanley, H. & Pameijer, C. (1997). Dentistry’s friend: calcium hydroxide,
+Operative dentistry, 22, 1-3.
+Sundqvist, G. & Figdor, D. (1998). Endodontic treatment of apical periodontitis.
+Essential endodontology, Blackwell Science Ltd, Oxford.
+Taha, N. A. & Khazali, M. A. (2017). Partial Pulpotomy in Mature Permanent
+Teeth with Clinical Signs Indicative of Irreversible Pulpitis: A Randomized
+Clinical Trial, Journal of Endodontics.
+Tanomaru-Filho, M., Tanomaru, J. M., Barros, D. B., Watanabe, E. & Ito, I. Y.
+(2007). In vitro antimicrobial activity of endodontic sealers, MTAbased
+cements and Portland cement, Journal of oral science, 49(1), 41-45.
+Tomson, R., Polycarpou, N. & Tomson, P. (2014). Contemporary obturation of
+the root canal system, British dental journal, 216(6), 315.
+Torabinejad & McDonald. (2009). Endodontic surgery, In: Torabinejad M, Walton
+RE, eds. Endodontics: Principles and Practice, 4th edn, St. Louis: Mosby,,
+357-375.
+Torabinejad, M., Hong, C., McDonald, F. & Ford, T. P. (1995a). Physical and
+chemical properties of a new root-end filling material, Journal of
+endodontics, 21(7), 349-353.
+Torabinejad, M., Hong, C.-U., Ford, T. R. P. & Kariyawasam, S. P. (1995b). Tissue
+reaction to implanted super-EBA and mineral trioxide aggregate in the
+mandible of guinea pigs: a preliminary report, Journal of Endodontics,
+21(11), 569-571.
+
+-- 124 of 132 --
+
+Bioceramic in Dentistry 125
+Expanded & Illustrated Edition
+Torabinejad, M., Nosrat, A., Verma, P. & Udochukwu, O. (2017). Regenerative
+Endodontic Treatment or Mineral Trioxide Aggregate Apical Plug in Teeth
+with Necrotic Pulps and Open Apices: A Systematic Review and
+Meta-analysis, Journal of Endodontics.
+Torabinejad, M., Rastegar, A. F., Kettering, J. D. & Ford, T. R. P. (1995c).
+Bacterial leakage of mineral trioxide aggregate as a root-end filling material,
+Journal of endodontics, 21(3), 109-112.
+Torabinejad, M., Watson, T. & Ford, T. P. (1993). Sealing ability of a mineral
+trioxide aggregate when used as a root end filling material, Journal of
+endodontics, 19(12), 591-595.
+Tran, D., He, J., Glickman, G. N. & Woodmansey, K. F. (2016). Comparative
+Analysis of Calcium Silicate–based Root Filling Materials Using an Open Apex
+Model, Journal of endodontics, 42(4), 654-658.
+Trope, M. (2002). Root resorption due to dental trauma, Endodontic topics,
+1(1), 79-100.
+Trope, M. (2008). Regenerative potential of dental pulp, Journal of Endodontics,
+34(7), S13-S17.
+Trope, M., Bunes, A. & Debelian, G. (2015). Root filling materials and
+techniques: bioceramics a new hope?, Endodontic Topics, 32(1), 86-96.
+Vasconcelos, B. C. d., Bernardes, R. A., Duarte, M. A. H., Bramante, C. M. &
+Moraes, I. G. d. (2011). Apical sealing of root canal fillings performed with
+five different endodontic sealers: analysis by fluid filtration, Journal of
+Applied Oral Science, 19(4), 324-328.
+Viapiana, R., Baluci, C., Tanomaru‐Filho, M. & Camilleri, J. (2015). Investigation
+of chemical changes in sealers during application of the warm vertical
+compaction technique, International endodontic journal, 48(1), 16-27.
+
+-- 125 of 132 --
+
+Bioceramic in Dentistry 126
+Expanded & Illustrated Edition
+Vidal, K., Martin, G., Lozano, O., Salas, M., Trigueros, J. & Aguilar, G. (2016).
+Apical closure in apexification: a review and case report of apexification
+treatment of an immature permanent tooth with Biodentine, Journal of
+endodontics, 42(5), 730-734.
+Walker, M. P., Diliberto, A. & Lee, C. (2006). Effect of setting conditions on
+mineral trioxide aggregate flexural strength, Journal of endodontics, 32(4),
+334-336.
+Walsh, R. M., Woodmansey, K. F., Glickman, G. N. & He, J. (2014). Evaluation of
+compressive strength of hydraulic silicate-based root-end filling materials,
+Journal of endodontics, 40(7), 969-972.
+Wang, Z. (2015). Bioceramic materials in endodontics, Endodontic Topics,
+32(1), 3-30.
+Wang, Z., Ma, J., Shen, Y. & Haapasalo, M. (2015). Acidic pH weakens the
+microhardness and microstructure of three tricalcium silicate materials,
+International endodontic journal, 48(4), 323-332.
+Wang, Z., Shen, Y. & Haapasalo, M. (2014). Dentin extends the antibacterial
+effect of endodontic sealers against Enterococcus faecalis biofilms, Journal
+of endodontics, 40(4), 505-508.
+WU, M. K. & Wesselink, P. R. (2005). Timeliness and effectiveness in the
+surgical management of persistent post‐treatment periapical pathosis,
+Endodontic Topics, 11(1), 25-31.
+Xuereb, M., Vella, P., Damidot, D., Sammut, C. V. & Camilleri, J. (2015). In Situ
+Assessment of the Setting of Tricalcium Silicate–based Sealers Using a
+Dentin Pressure Model, Journal of endodontics, 41(1), 111-124.
+Yadav, P., Pruthi, P. J., Naval, R. R., Talwar, S. & Verma, M. (2015). Novel use of
+platelet‐rich fibrin matrix and MTA as an apical barrier in the management
+
+-- 126 of 132 --
+
+Bioceramic in Dentistry 127
+Expanded & Illustrated Edition
+of a failed revascularization case, Dental Traumatology, 31(4), 328-331.
+Yang, Q., Troczynski, T. & Liu, D.-M. (2002). Influence of apatite seeds on the
+synthesis of calcium phosphate cement, Biomaterials, 23(13), 2751-2760.
+Yoshimine, Y., Ono, M. & Akamine, A. (2007). In vitro comparison of the
+biocompatibility of mineral trioxide aggregate, 4META/MMA-TBB resin, and
+intermediate restorative material as root-end–filling materials, Journal of
+endodontics, 33(9), 1066-1069.
+Zairi, A., Lambrianidis, T., Pantelidou, O., Papadimitriou, S. & Tziafas, D. (2012).
+Periradicular tissue responses to biologically active molecules or MTA when
+applied in furcal perforation of dogs’ teeth, International journal of dentistry,
+2012.
+Zhang, H., Shen, Y., Ruse, N. D. & Haapasalo, M. (2009). Antibacterial activity of
+endodontic sealers by modified direct contact test against Enterococcus
+faecalis, Journal of endodontics, 35(7), 1051-1055.
+Zhang, S., Yang, X. & Fan, M. (2013). BioAggregate and iRoot BP Plus optimize
+the proliferation and mineralization ability of human dental pulp cells,
+International endodontic journal, 46(10), 923-929.
+Zhang, W., Li, Z. & Peng, B. (2010a). Effects of iRoot SP on
+mineralization-related genes expression in MG63 cells, Journal of
+endodontics, 36(12), 1978-1982.
+Zhang, W., Li, Z. & Peng, B. (2010b). Ex vivo cytotoxicity of a new calcium
+silicate–based canal filling material, International endodontic journal, 43(9),
+769-774.
+Zhou, H.-m., Du, T.-f., Shen, Y., Wang, Z.-j., Zheng, Y.-f. & Haapasalo, M. (2015).
+In vitro cytotoxicity of calcium silicate–containing endodontic sealers,
+Journal of endodontics, 41(1), 56-61.
+
+-- 127 of 132 --
+
+Bioceramic in Dentistry 128
+Expanded & Illustrated Edition
+Zhou, H.-m., Shen, Y., Wang, Z.-j., Li, L., Zheng, Y.-f., Häkkinen, L. & Haapasalo,
+M. (2013). In vitro cytotoxicity evaluation of a novel root repair material,
+Journal of endodontics, 39(4), 478-483.
+Zhou, W., Zheng, Q., Tan, X., Song, D., Zhang, L. & Huang, D. (2017).
+Comparison of mineral trioxide aggregate and iRoot BP plus root repair
+material as root-end filling materials in endodontic microsurgery: a
+prospective randomized controlled study, Journal of endodontics, 43(1), 1-6.
+
+-- 128 of 132 --
+
+Bioceramic in Dentistry 129
+Expanded & Illustrated Edition
+Additional references
+The following sources support the newly added chapters on dental
+adhesives (Chapter Seven) and on the periodontal response to materials,
+including endodontic-sealer biocompatibility (Chapter Eight). They are
+separate from the original bibliography above.
+Dental adhesives (Chapter Seven)
+Breschi, L., Ferracane, J. L., Cadenaro, M., Mazzoni, A. & Hilton, T. J. (2015).
+Adhesion to enamel and dentin. In T. J. Hilton, J. L. Ferracane & J. C. Broome
+(Eds.), Summitt’s Fundamentals of Operative Dentistry (4th ed.). Chicago:
+Quintessence.
+Buonocore, M. G. (1955). A simple method of increasing the adhesion of acrylic
+filling materials to enamel surfaces. Journal of Dental Research, 34(6),
+849–853.
+Nakabayashi, N., Kojima, K. & Masuhara, E. (1982). The promotion of adhesion
+by the infiltration of monomers into tooth substrates. Journal of Biomedical
+Materials Research, 16(3), 265–273.
+Sano, H., Takatsu, T., Ciucchi, B., Horner, J. A., Matthews, W. G. & Pashley, D. H.
+(1995). Nanoleakage: leakage within the hybrid layer. Operative Dentistry,
+20(1), 18–25.
+Pashley, D. H., Tay, F. R., Yiu, C. et al. (2004). Collagen degradation by
+host-derived enzymes during aging. Journal of Dental Research, 83(3),
+216–221.
+Hebling, J., Pashley, D. H., Tjäderhane, L. & Tay, F. R. (2005). Chlorhexidine
+arrests subclinical degradation of dentin hybrid layers in vivo. Journal of
+Dental Research, 84(8), 741–746.
+
+-- 129 of 132 --
+
+Bioceramic in Dentistry 130
+Expanded & Illustrated Edition
+Carrilho, M. R., Geraldeli, S., Tay, F. et al. (2007). In vivo preservation of the
+hybrid layer by chlorhexidine. Journal of Dental Research, 86(6), 529–533.
+Endodontic-sealer biocompatibility (Chapter Eight)
+Dassieu, C. M. M. (2023). Biocompatibility of endodontic sealers [Graduation
+project, Dentistry Degree, Universidad Europea de Madrid]. Academic year
+2022/2023.
+Donnermeyer, D., Bürklein, S., Dammaschke, T. et al. (2019). Endodontic
+sealers based on calcium silicates: a systematic review. Odontology, 107(4),
+421–436.
+Giacomino, C. M., Wealleans, J. A., Kuhn, N. et al. (2019). Comparative
+biocompatibility and osteogenic potential of two bioceramic sealers. Journal
+of Endodontics, 45(1), 51–56.
+Lee, B. N., Hong, J. U., Kim, S. M. et al. (2019). Anti-inflammatory and
+osteogenic effects of calcium silicate–based root canal sealers. Journal of
+Endodontics, 45(1), 73–78.
+Alves Silva, E. C., Tanomaru-Filho, M., da Silva, G. F. et al. (2020).
+Biocompatibility and bioactive potential of new calcium silicate-based
+endodontic sealers: Bio-C Sealer and Sealer Plus BC. Journal of Endodontics,
+46(10), 1470–1477.
+Zhou, H., Du, T., Shen, Y. et al. (2015). In vitro cytotoxicity of calcium
+silicate-containing endodontic sealers. Journal of Endodontics, 41(1), 56–61.
+Saygili, G., Saygili, S., Tuglu, I. & Capar, I. D. (2017). In vitro cytotoxicity of
+GuttaFlow Bioseal, GuttaFlow 2, AH Plus and MTA Fillapex. Iranian
+Endodontic Journal, 12(3), 354–359.
+
+-- 130 of 132 --
+
+Bioceramic in Dentistry 131
+Expanded & Illustrated Edition
+Kohsar, A. H., Hasani, M., Karami, M. et al. (2022). Subcutaneous tissue
+response to Adseal and Sure-Seal root sealers in rats: a histopathological
+study. Maedica, 17(3), 654–661.
+Kapralos, V., Böcker, J., Vach, K. et al. (2022). On the biocompatibility of
+endodontic sealers. Swiss Dental Journal, 132(9), 586–597.
+Özdemir, O. & Kopac, T. (2022). Cytotoxicity and biocompatibility of root canal
+sealers: a review on recent studies. Journal of Applied Biomaterials &
+Functional Materials, 20, 1–13.
+Lim, M., Jung, C., Shin, D. H., Cho, Y. B. & Song, M. (2020). Calcium
+silicate-based root canal sealers: a literature review. Restorative Dentistry &
+Endodontics, 45(3), e35.
+
+-- 131 of 132 --
+
+About this edition
+Bioceramic in Dentistry — Expanded & Illustrated Edition
+This edition preserves the text, scholarship and full bibliography of the
+original work by Dr. Saad Alsaif and Dr. Khalid Al Otaibi (Prince
+Abdulrahman Advanced Dental Institute, Riyadh, 2026). The endodontic
+chapters and their citations are the authors’ own work.
+Added for this edition are twenty-one original schematic illustrations and
+comparative charts, section summaries and clinical call-outs, two
+background chapters placing endodontic bioceramics in the wider
+context of dentistry and materials science, and a set of quick-reference
+appendices. The illustrations are diagrammatic, not clinical images; the
+chart values are representative figures drawn from the cited literature;
+and the background chapters are written as established materials
+science rather than as new, separately-cited claims.
+Prince Abdulrahman Advanced Dental Institute · Riyadh
+
+-- 132 of 132 --
+
