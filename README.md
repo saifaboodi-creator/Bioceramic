@@ -1,25 +1,75 @@
-# CODING AGENTS: READ THIS FIRST
+# Bioceramics in Endodontics — Animated Clinical Explainer
 
-This is a **handoff bundle** from Claude Design (claude.ai/design).
+A ~2:18 animated clinical explainer on calcium-silicate bioceramics (MTA,
+Biodentine, BC Sealer) in endodontics, for practicing dentists and
+endodontists. 16:9, clinical blues/whites, IBM Plex type, on-screen captions
+only (no audio). Built as a standalone React animation with a built-in
+timeline/transport — no build server required to view, no external runtime.
 
-A user mocked up designs in HTML/CSS/JS using an AI design tool, then exported this bundle so a coding agent can implement the designs for real.
+## Run it
 
-## What you should do — IMPORTANT
+Just open **`index.html`** in a browser — it loads vendored React, the
+precompiled scene, and self-hosted IBM Plex fonts entirely from local files, so
+it works straight from `file://` with **no network at all**.
 
-**Read the chat transcripts first.** There are 1 chat transcript(s) in `chats/`. The transcripts show the full back-and-forth between the user and the design assistant — they tell you **what the user actually wants** and **where they landed** after iterating. Don't skip them. The final HTML files are the output, but the chat is where the intent lives.
+For a clean http origin instead:
 
-**Read `project/Bioceramics Explainer.dc.html` in full.** The user had this file open when they triggered the handoff, so it's almost certainly the primary design they want built. Read it top to bottom — don't skim. Then **follow its imports**: open every file it pulls in (shared components, CSS, scripts) so you understand how the pieces fit together before you start implementing.
+```bash
+npm run serve      # → http://localhost:8080
+```
 
-**If anything is ambiguous, ask the user to confirm before you start implementing.** It's much cheaper to clarify scope up front than to build the wrong thing.
+### Controls
 
-## About the design files
+- **Space** — play / pause
+- **← / →** — seek 0.1 s (hold **Shift** for 1 s)
+- **0** or **Home** — return to start
+- Click / drag the scrub bar to seek; hover to preview
 
-The design medium is **HTML/CSS/JS** — these are prototypes, not production code. Your job is to **recreate them pixel-perfectly** in whatever technology makes sense for the target codebase (React, Vue, native, whatever fits). Match the visual output; don't copy the prototype's internal structure unless it happens to fit.
+The playhead position is remembered across reloads (localStorage).
 
-**Don't render these files in a browser or take screenshots unless the user asks you to.** Everything you need — dimensions, colors, layout rules — is spelled out in the source. Read the HTML and CSS directly; a screenshot won't tell you anything they don't.
+## The six scenes
 
-## Bundle contents
+| Time        | Scene                                                                    |
+|-------------|--------------------------------------------------------------------------|
+| 0:00–0:09   | **Title** — animated concentric rings, positioning line                  |
+| 0:09–0:33   | **Why they matter** — the MTA statement, bioinert/bioactive/bioresorbable classification, four defining properties |
+| 0:33–1:08   | **Setting & sealing** — Portland-cement composition, silicate + aluminate reactions, an animated pH gauge (10.2 → 12.5) with Ca²⁺ release, hydroxyapatite tags growing into dentine |
+| 1:08–1:35   | **Clinical uses** — a schematic molar with sites highlighted in sequence (pulp capping, perforation repair, apexification, root-end filling, obturation) |
+| 1:35–2:02   | **Comparison** — animated setting-time bars and radiopacity for MTA, MTA Angelus, Biodentine, BC Sealer, plus the sealer takeaway |
+| 2:02–2:18   | **Closing** — the bottom line and the "long-term RCTs still needed" caveat |
 
-- `README.md` — this file
-- `chats/` — conversation transcripts (read these!)
-- `project/` — the `Bioceramic in dentistry` project files (HTML prototypes, assets, components)
+## Project layout
+
+```
+index.html      Entry point — loads React + compiled scene, mounts it
+src/engine.jsx  Timeline engine: Stage / Sprite primitives, hooks, easing, transport
+src/scene.jsx   The explainer itself — six scenes over a 138 s timeline
+build/          Precompiled JS output (generated; committed so index.html runs as-is)
+vendor/         Pinned React 18.3.1 UMD, self-hosted IBM Plex woff2 + fonts.css
+build.mjs       Babel build: src/*.jsx → build/*.js
+serve.mjs       Zero-dependency static file server
+project/        Original Claude Design handoff (design source, chat transcript, PDF)
+```
+
+## Editing
+
+The animation lives in `src/scene.jsx` (content, layout, timing) and
+`src/engine.jsx` (the Stage/Sprite timeline machinery). After editing, rebuild
+the browser bundles:
+
+```bash
+npm install      # first time only — installs Babel
+npm run build    # src/*.jsx → build/*.js
+```
+
+`index.html` loads the compiled `build/*.js` directly (classic scripts wired
+together through `window`), so there is no runtime Babel and no bundler.
+
+## Provenance
+
+Recreated from a [Claude Design](https://claude.ai/design) handoff. The original
+prototype (`project/Bioceramics Explainer.dc.html` + `project/bioceramic-scene.jsx`)
+ran on Claude Design's proprietary Design Components runtime; this
+implementation reproduces it pixel-for-pixel as a self-contained app with that
+runtime removed. All figures are drawn from the source clinical text in
+`project/uploads/`.

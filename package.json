@@ -1,0 +1,17 @@
+{
+  "name": "bioceramics-explainer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bioceramics in Endodontics — an animated clinical explainer (standalone web app).",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node serve.mjs"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-react": "^7.27.1",
+    "@fontsource/ibm-plex-mono": "^5.2.7",
+    "@fontsource/ibm-plex-sans": "^5.2.8"
+  }
+}
