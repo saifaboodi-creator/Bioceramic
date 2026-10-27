@@ -8,9 +8,10 @@
 | `muqarana-fiqhiyya` | مقارنة فقهية: الأقوال بأدلتها ← المناقشة ← الترجيح |
 | `tadabbur-muwaththaq` | فوائد وهدايات الآية منقولة عن العلماء + استنباطات مفصولة |
 | `tahqiq-iqtibas` | التحقق من اقتباس أو نسبة قول |
+| `takhrij-hadith` | تخريج حديث ونقل أحكام المحدثين (الدرر السنية + الشاملة) |
 | `dental-evidence-summary` | Clinical dental question / evidence summary from PubMed |
 
-Shared citation rules for the four Islamic skills: `.claude/skills/_shared/qawaid-al-naql.md`.
+Shared citation rules for the five Islamic skills: `.claude/skills/_shared/qawaid-al-naql.md`.
 Paper critique (CONSORT / PRISMA / RoB 2) uses the account skill `paper-critic`.
 
 ## Learning loop
