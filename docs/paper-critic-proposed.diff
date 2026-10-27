@@ -1,6 +1,6 @@
-Proposed changes to the account skill `paper-critic` (from the test in docs/paper-critic-test.md).
-Not applied. paper-critic lives in the user's claude.ai account, so the user applies these
-in Settings → Skills after approving them.
+Changes to the account skill `paper-critic` (from the test in docs/paper-critic-test.md).
+Status: APPROVED by the user on 2026-10-27, including the RoB 2 table format.
+The user applies them in their claude.ai account (Settings → Skills); this file is the record.
 
 --- paper-critic/SKILL.md
 +++ paper-critic/SKILL.md
