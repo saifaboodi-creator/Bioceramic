@@ -1,0 +1,31 @@
+Proposed changes to the account skill `paper-critic` (from the test in docs/paper-critic-test.md).
+Not applied. paper-critic lives in the user's claude.ai account, so the user applies these
+in Settings → Skills after approving them.
+
+--- paper-critic/SKILL.md
++++ paper-critic/SKILL.md
+@@ ## Step 2 — Read critically, then write the report
+ Work through the paper in order. For each section, ask the reviewer's core question, then report findings using the template below.
++
++Before writing, do a **contradiction sweep** and list every clash you find as a concern:
++- Methods vs Limitations (e.g. "assessors were blinded" vs "blinding was not possible").
++- Data-analysis section vs Results (e.g. "descriptive analysis only" vs "no statistically significant difference").
++- Results vs Discussion wording (e.g. 26% attrition described as "a low dropout rate").
++- Abstract group labels vs table labels (Group I/II vs A/B; is each mapped to a material?).
+
+@@ ## Risk of bias
+-[Apply the design-appropriate tool; rate each domain Low / Some concerns / High with a one-line justification]
++[Apply the design-appropriate tool. State the outcome assessed. Give a table:
++| Domain | Judgement | Reason (quote or cite the paper) |
++and an **Overall** row using the tool's own rule.]
+
+--- paper-critic/references/rct.md
++++ paper-critic/references/rct.md
+@@ ## Dental-specific RCT traps
+ - **Split-mouth designs** treat both sides of one mouth — ...
++- **Fixed treatment order in split-mouth.** If one material is always placed first (e.g. "MTA, then Biodentine on the opposite tooth after 1 week"), the order isn't randomized. Unless the side was randomized and that is reported, rate RoB 2 Domain 1 **High**. Also check that "randomly assigned to two groups" makes sense when every patient receives both.
+
+--- paper-critic/references/stats-and-dental.md
++++ paper-critic/references/stats-and-dental.md
+@@ ## Reporting quality
++- **Reconcile every table across timepoints.** Counts at a later visit can't exceed the earlier visit. In split-mouth or crossover designs both arms must have the same patient n at every visit. Recompute row and column totals against the stated n; any mismatch is a data-integrity concern (usually major).
