@@ -11,7 +11,6 @@
 | `takhrij-hadith` | تخريج حديث ونقل أحكام المحدثين (الدرر السنية + الشاملة) |
 | `dental-evidence-summary` | Clinical dental question / evidence summary from PubMed |
 | `dental-explainer` | PDF → animated caption-only explainer in `explainers/<slug>/` |
-| `stick-scene` | Hand-drawn stick-figure `<stick-scene>` canvas widgets (imported from `saifaboodi-creator/stick-scene` @ `ca84311`) |
 
 Shared citation rules for the five Islamic skills: `.claude/skills/_shared/qawaid-al-naql.md`.
 Paper critique (CONSORT / PRISMA / RoB 2) uses the account skill `paper-critic`.
