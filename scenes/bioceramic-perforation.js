@@ -200,7 +200,7 @@
         const z = E.back(sealK);
         g.translate(50, -60);
         g.scale(z, z);
-        pill(g, 0, 0, 'sealed', C.green, C.greenInk, 9);
+        pill(g, 0, 0, 'sealed', C.green, C.greenInk, 11);
         g.restore();
       }
       sparks(g, HOLE[0], HOLE[1], seg(T, 4.0, 4.6), 14, 6, C.greenInk);
